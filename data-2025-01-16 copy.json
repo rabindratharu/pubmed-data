@@ -1,0 +1,169 @@
+{
+	"37880800": {
+		"title": "Translatome analysis of tuberous sclerosis complex 1 patient-derived neural progenitor cells reveals rapamycin-dependent and independent alterations.",
+		"post_date": "2023-10-27",
+		"content": "<!-- wp:paragraph -->
+					<p><strong>Background:&nbsp;</strong>Tuberous sclerosis complex (TSC) is an inherited neurocutaneous disorder caused by mutations in the TSC1 or TSC2 genes, with patients often exhibiting neurodevelopmental (ND) manifestations termed TSC-associated neuropsychiatric disorders (TAND) including autism spectrum disorder (ASD) and intellectual disability. Hamartin (TSC1) and tuberin (TSC2) proteins form a complex inhibiting mechanistic target of rapamycin complex 1 (mTORC1) signaling. Loss of TSC1 or TSC2 activates mTORC1 that, among several targets, controls protein synthesis by inhibiting translational repressor eIF4E-binding proteins. Using TSC1 patient-derived neural progenitor cells (NPCs), we recently reported early ND phenotypic changes, including increased cell proliferation and altered neurite outgrowth in TSC1-null NPCs, which were unaffected by the mTORC1 inhibitor rapamycin.</p>
+					<!-- /wp:paragraph -->
+
+					<!-- wp:paragraph -->
+					<p><strong>Methods:&nbsp;</strong>Here, we used polysome profiling, which quantifies changes in mRNA abundance and translational efficiencies at a transcriptome-wide level, to compare CRISPR-edited TSC1-null with CRISPR-corrected TSC1-WT NPCs generated from one TSC donor (one clone/genotype). To assess the relevance of identified gene expression alterations, we performed polysome profiling in postmortem brains from ASD donors and age-matched controls. We further compared effects on translation of a subset of transcripts and rescue of early ND phenotypes in NPCs following inhibition of mTORC1 using the allosteric inhibitor rapamycin versus a third-generation bi-steric, mTORC1-selective inhibitor RMC-6272.</p>
+					<!-- /wp:paragraph -->
+
+					<!-- wp:paragraph -->
+					<p><strong>Results:&nbsp;</strong>Polysome profiling of NPCs revealed numerous TSC1-associated alterations in mRNA translation that were largely recapitulated in human ASD brains. Moreover, although rapamycin treatment partially reversed the TSC1-associated alterations in mRNA translation, most genes related to neural activity/synaptic regulation or ASD were rapamycin-insensitive. In contrast, treatment with RMC-6272 inhibited rapamycin-insensitive translation and reversed TSC1-associated early ND phenotypes including proliferation and neurite outgrowth that were unaffected by rapamycin.</p>
+					<!-- /wp:paragraph -->
+
+					<!-- wp:paragraph -->
+					<p><strong>Conclusions:&nbsp;</strong>Our work reveals ample mRNA translation alterations in TSC1 patient-derived NPCs that recapitulate mRNA translation in ASD brain samples. Further, suppression of TSC1-associated but rapamycin-insensitive translation and ND phenotypes by RMC-6272 unveils potential implications for more efficient targeting of mTORC1 as a superior treatment strategy for TAND.</p>
+					<!-- /wp:paragraph -->
+
+					<!-- wp:paragraph -->
+					<p><strong>Keywords:&nbsp;</strong>Autism spectrum disorder; Early neurodevelopment; Neural progenitor cells; Polysome profiling; RMC-6272; TSC1; Translatome; Tuberous sclerosis complex; mTORC1.</p>
+					<!-- /wp:paragraph -->
+
+					<!-- wp:paragraph -->
+					<p>© 2023. BioMed Central Ltd., part of Springer Nature.</p>
+					<!-- /wp:paragraph -->",
+		"authors": ["Mame Daro Faye", "Tyson E Graber", "Martin Holcik"],
+		"institutions": [
+			{
+				"name": "University of Ottawa",
+				"description": "Apoptosis Research Centre, Children's Hospital of Eastern Ontario Research Institute and Department of Biochemistry, Microbiology and Immunology"
+			},
+			{
+				"name": "Montreal Neurological Institute"
+			},
+			{
+				"description": "Apoptosis Research Centre, Children's Hospital of Eastern Ontario Research Institute and Department of Pediatrics",
+				"name": "University of Ottawa"
+			}
+		],
+		"journals": ["Integration (Tokyo, Japan)"],
+		"keywords": [
+			"Developing Countries",
+			"Development Policy",
+			"Economic Development",
+			"Economic Factors",
+			"International Cooperation",
+			"Policy",
+			"Population Policy",
+			"Social Policy"
+		],
+		"meta_fields": [
+			{
+				"authors": [
+					"alexander-karamyshev",
+					"kristen-r-baca",
+					"elena-b-tikhonova"
+				],
+				"affiliation": "university-of-ottawa"
+			},
+			{
+				"authors": [
+					"James C. Huffman",
+					"Kristen R. Baca",
+					"Alexander Karamyshev"
+				],
+				"affiliation": "Texas Tech University"
+			}
+		]
+	},
+	"57600": {
+		"title": "Polysome Profiling in <em>Leishmania</em>, Human Cells and Mouse Testis",
+		"post_date": "2018-04-08 15:00:00",
+		"content": "The overall goal of polysome profiling technique is analysis of translational activity of individual mRNAs or transcriptome mRNAs during protein synthesis. The method is important for studies of protein synthesis regulation, translation activation and repression in health and multiple human...",
+		"authors": [
+			"Zemfira N. Karamysheva",
+			"Elena B. Tikhonova",
+			"Petar N. Grozdanov",
+			"James C. Huffman",
+			"Kristen R. Baca",
+			"Alexander Karamyshev"
+		],
+		"institutions": [
+			{
+				"name": "Texas Tech University Health Sciences Center",
+				"description": "Department of Cell Biology and Biochemistry"
+			},
+			{
+				"name": "Texas Tech University",
+				"description": "Department of Biological Sciences"
+			},
+			{
+				"name": "Texas Tech University",
+				"description": "CISER (Center for the Integration of STEM Education & Research)"
+			}
+		],
+		"journals": ["J Cardiothorac Vasc Anesth. 2015 Oct;29(5):1333-40"],
+		"keywords": [
+			"Developing Countries",
+			"Development Policy",
+			"Economic Development",
+			"Economic Factors",
+			"International Cooperation",
+			"Policy",
+			"Population Policy",
+			"Social Policy"
+		],
+		"meta_fields": [
+			{
+				"authors": [
+					"alexander-karamyshev",
+					"kristen-r-baca",
+					"elena-b-tikhonova"
+				],
+				"affiliation": "university-of-ottawa"
+			},
+			{
+				"authors": ["zemfira-n-karamysheva", "james-c-huffman"],
+				"affiliation": "Texas Tech University"
+			}
+		]
+	},
+	"51455": {
+		"title": "Polysome Fractionation and Analysis of Mammalian Translatomes on a Genome-wide Scale",
+		"post_date": "2014-05-17 14:00:00",
+		"content": "Ribosomes play a central role in protein synthesis. Polyribosome (polysome) fractionation by sucrose density gradient centrifugation allows direct determination of translation efficiencies of individual mRNAs on a genome-wide scale. In addition, this method can be used for biochemical analysis of ribosome- and polysome-associated factors such as chaperones and signaling...",
+		"authors": ["Valentina Gandin", "Kristina Sikström", "Tommy Alain"],
+		"institutions": [
+			{
+				"name": "McGill University",
+				"description": "Lady Davis Institute and Department of Oncology"
+			},
+			{
+				"name": "Karolinska Institutet",
+				"description": "Department of Oncology-Pathology"
+			},
+			{
+				"name": "McGill University",
+				"description": "Goodman Cancer Centre and Department of Biochemistry"
+			}
+		],
+		"journals": ["J Cardiothorac Vasc Anesth. 2015 Oct;29(5):1333-40"],
+		"keywords": [
+			"Developing Countries",
+			"Development Policy",
+			"Economic Development",
+			"Economic Factors",
+			"International Cooperation",
+			"Policy",
+			"Population Policy",
+			"Social Policy"
+		],
+		"meta_fields": [
+			{
+				"authors": [
+					"alexander-karamyshev",
+					"kristen-r-baca",
+					"elena-b-tikhonova"
+				],
+				"affiliation": "university-of-ottawa"
+			},
+			{
+				"authors": ["zemfira-n-karamysheva", "james-c-huffman"],
+				"affiliation": "Texas Tech University"
+			}
+		]
+	}
+}
