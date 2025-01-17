@@ -1,0 +1,147 @@
+{
+	"52295": {
+		"title": "Assessment of Selective mRNA Translation in Mammalian Cells by Polysome Profiling",
+		"post_date": "2014-10-28 15:00:00",
+		"content": "The ability of cells to adapt to stress is crucial for their survival. Regulation of mRNA translation is one such adaptation strategy, providing for rapid regulation of the proteome. Here, we provide a standardized polysome profiling protocol to identify specific mRNAs that are selectively translated under stress conditions.",
+		"authors": ["Mame Daro Faye", "Tyson E Graber", "Martin Holcik"],
+		"institutions": [
+			{
+				"name": "University of Ottawa",
+				"description": "Apoptosis Research Centre, Children's Hospital of Eastern Ontario Research Institute and Department of Biochemistry, Microbiology and Immunology"
+			},
+			{
+				"name": "Montreal Neurological Institute"
+			},
+			{
+				"description": "Apoptosis Research Centre, Children's Hospital of Eastern Ontario Research Institute and Department of Pediatrics",
+				"name": "University of Ottawa"
+			}
+		],
+		"journals": ["Integration (Tokyo, Japan)"],
+		"keywords": [
+			"Developing Countries",
+			"Development Policy",
+			"Economic Development",
+			"Economic Factors",
+			"International Cooperation",
+			"Policy",
+			"Population Policy",
+			"Social Policy"
+		],
+		"meta_fields": [
+			{
+				"authors": [
+					"alexander-karamyshev",
+					"kristen-r-baca",
+					"elena-b-tikhonova"
+				],
+				"affiliation": "university-of-ottawa"
+			},
+			{
+				"authors": [
+					"James C. Huffman",
+					"Kristen R. Baca",
+					"Alexander Karamyshev"
+				],
+				"affiliation": "Texas Tech University"
+			}
+		]
+	},
+	"57600": {
+		"title": "Polysome Profiling in <em>Leishmania</em>, Human Cells and Mouse Testis",
+		"post_date": "2018-04-08 15:00:00",
+		"content": "The overall goal of polysome profiling technique is analysis of translational activity of individual mRNAs or transcriptome mRNAs during protein synthesis. The method is important for studies of protein synthesis regulation, translation activation and repression in health and multiple human...",
+		"authors": [
+			"Zemfira N. Karamysheva",
+			"Elena B. Tikhonova",
+			"Petar N. Grozdanov",
+			"James C. Huffman",
+			"Kristen R. Baca",
+			"Alexander Karamyshev"
+		],
+		"institutions": [
+			{
+				"name": "Texas Tech University Health Sciences Center",
+				"description": "Department of Cell Biology and Biochemistry"
+			},
+			{
+				"name": "Texas Tech University",
+				"description": "Department of Biological Sciences"
+			},
+			{
+				"name": "Texas Tech University",
+				"description": "CISER (Center for the Integration of STEM Education & Research)"
+			}
+		],
+		"journals": ["J Cardiothorac Vasc Anesth. 2015 Oct;29(5):1333-40"],
+		"keywords": [
+			"Developing Countries",
+			"Development Policy",
+			"Economic Development",
+			"Economic Factors",
+			"International Cooperation",
+			"Policy",
+			"Population Policy",
+			"Social Policy"
+		],
+		"meta_fields": [
+			{
+				"authors": [
+					"alexander-karamyshev",
+					"kristen-r-baca",
+					"elena-b-tikhonova"
+				],
+				"affiliation": "university-of-ottawa"
+			},
+			{
+				"authors": ["zemfira-n-karamysheva", "james-c-huffman"],
+				"affiliation": "Texas Tech University"
+			}
+		]
+	},
+	"51455": {
+		"title": "Polysome Fractionation and Analysis of Mammalian Translatomes on a Genome-wide Scale",
+		"post_date": "2014-05-17 14:00:00",
+		"content": "Ribosomes play a central role in protein synthesis. Polyribosome (polysome) fractionation by sucrose density gradient centrifugation allows direct determination of translation efficiencies of individual mRNAs on a genome-wide scale. In addition, this method can be used for biochemical analysis of ribosome- and polysome-associated factors such as chaperones and signaling...",
+		"authors": ["Valentina Gandin", "Kristina Sikström", "Tommy Alain"],
+		"institutions": [
+			{
+				"name": "McGill University",
+				"description": "Lady Davis Institute and Department of Oncology"
+			},
+			{
+				"name": "Karolinska Institutet",
+				"description": "Department of Oncology-Pathology"
+			},
+			{
+				"name": "McGill University",
+				"description": "Goodman Cancer Centre and Department of Biochemistry"
+			}
+		],
+		"journals": ["J Cardiothorac Vasc Anesth. 2015 Oct;29(5):1333-40"],
+		"keywords": [
+			"Developing Countries",
+			"Development Policy",
+			"Economic Development",
+			"Economic Factors",
+			"International Cooperation",
+			"Policy",
+			"Population Policy",
+			"Social Policy"
+		],
+		"meta_fields": [
+			{
+				"authors": [
+					"alexander-karamyshev",
+					"kristen-r-baca",
+					"elena-b-tikhonova"
+				],
+				"affiliation": "university-of-ottawa"
+			},
+			{
+				"authors": ["zemfira-n-karamysheva", "james-c-huffman"],
+				"affiliation": "Texas Tech University"
+			}
+		]
+	}
+}
