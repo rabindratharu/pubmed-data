@@ -1,62 +1,4337 @@
 [
   {
-    "articleId": "38165729",
-    "title": "Polyimide-Based Aqueous Potassium Energy Storage Systems Using Concentrated WiSE Electrolyte.",
+    "articleId": "39719057",
+    "title": "Atomic Decompositions of Periodic Electronic-Structure Simulations.",
     "abstract": [
       {
-        "text": "Aqueous batteries are considered as promising alternative power sources due to their eco-friendly, cost-effective, and nonflammable attributes. Employing organic-based electrode materials offers further advantages toward building greener and sustainable systems, owing to their tunability and environmental friendliness. In order to enhance the energy and power densities, superconcentrated aqueous electrolytes, such as water-in-salt electrolytes (WiSE), have renewed the interest in aqueous batteries due to their enhanced stability and much wider electrochemical stability window (>1.23 V) compared with the traditional aqueous electrolytes. Here, we present a perylene diimide-based electrode material (PDI-Urea) as an appealing anode for aqueous potassium energy storage systems and investigate their electrochemical performance in three WiSE electrolytes, namely, 30 M potassium acetate, 40 M potassium formate and 30 M potassium bis(fluorosulfonyl)imide (KFSI). To explore the potential of PDI-Urea for potassium-based electrochemical energy systems, we fabricated full cell devices such as aqueous potassium dual-ion battery (APDIB) and aqueous K-ion battery (AKIB) and studied their electrochemical properties with 30 M KFSI electrolyte. The full cell K-ion battery, using a PBA cathode, exhibited excellent electrochemical performance with good rate capability and impressive capacity retention of 91% upon 1000 cycles. Further, the reaction mechanism of the electrodes is systematically analyzed using  studies.",
+        "text": "We present a new theory for partitioning simulations of periodic and solid-state systems into physically sound atomic contributions at the level of Kohn-Sham density functional theory. Our theory is based on spatially localized linear combinations of crystalline Gaussian-type orbitals and, as such, capable of exposing local features within periodic electronic structures in a more intuitive and robust manner than alternatives based on the spatial distribution of atomic basis functions alone. Early decomposed cohesive energies of both molecular polymers and different crystalline polymorphs demonstrate how the atomic properties yielded by our theory convincingly align with the expected charge polarization in these systems, also whenever partial charges and Madelung energies may lend themselves somewhat ambiguous to interpretation.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "The journal of physical chemistry. A",
+    "journalInfo": "J Phys Chem A. 2025. Jan. 09. 129. (1). :385. doi: 10.1021/acs.jpca.4c06651. Epub 2024 12 24",
+    "publicationDate": "2025-Jan-09",
+    "doi": "10.1021/acs.jpca.4c06651",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Luna Zamok",
+        "affiliation": [
+          "DTU Chemistry, Technical University of Denmark, Kemitorvet Bldg. 206, 2800 Kgs., Lyngby 2800, Denmark."
+        ]
+      },
+      {
+        "name": "Janus J Eriksen",
+        "affiliation": [
+          "DTU Chemistry, Technical University of Denmark, Kemitorvet Bldg. 206, 2800 Kgs., Lyngby 2800, Denmark."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719056",
+    "title": "Unraveling Serial Degradation Pathways of Supported Catalysts through Reliable Electrochemical Liquid-Cell TEM Analysis.",
+    "abstract": [
+      {
+        "text": "Electrochemical liquid-cell transmission electron microscopy (e-LCTEM) offers great potential for investigating the structural dynamics of nanomaterials during electrochemical reactions. However, challenges arise from the difficulty in achieving the optimal electrolyte thickness, leading to inconsistent electrochemical responses and limited spatial resolution. In this study, we present advanced e-LCTEM techniques tailored for tracking Pt/C degradation under electrochemical polarization at short intervals with high spatial resolution. Our innovative approach combines microfabrication-based sample preparation with  control of electrolyte thickness, ensuring reliable electrochemical signal acquisition and direct observation of sequential catalyst degradation. Quantitative imaging analyses conducted at both global areas and single-particle levels unveil a distinctive degradation mechanism primarily driven by nanoparticle migrations. Smaller nanoparticles exhibit a higher susceptibility to migration, leading to coalescence and final detachment in series. This migration-gated degradation mechanism provides a new perspective on the size-dependent durability of supported nanoparticles, complementing the prevailing explanation centered on the size-dependent dissolution kinetics of nanoparticles.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Journal of the American Chemical Society",
+    "journalInfo": "J Am Chem Soc. 2025. Jan. 08. 147. (1). :181. doi: 10.1021/jacs.4c08825. Epub 2024 12 24",
+    "publicationDate": "2025-Jan-08",
+    "doi": "10.1021/jacs.4c08825",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Sungin Kim",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea.",
+          "Department of Chemistry and Chemical Biology, Cornell University, Ithaca, New York 14853, United States."
+        ]
+      },
+      {
+        "name": "Jimin Kwag",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea.",
+          "Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States."
+        ]
+      },
+      {
+        "name": "Minyoung Lee",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea."
+        ]
+      },
+      {
+        "name": "Sungsu Kang",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea.",
+          "Department of Chemistry, University of Chicago, Chicago, Illinois 60637, United States."
+        ]
+      },
+      {
+        "name": "Dongjun Kim",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea."
+        ]
+      },
+      {
+        "name": "Jong-Gil Oh",
+        "affiliation": [
+          "Advanced Fuel Cell Technology Development Team 1, R&D division, Hyundai Motor Company, Yongin 16891, Republic of Korea."
+        ]
+      },
+      {
+        "name": "Young-Jung Heo",
+        "affiliation": [
+          "Advanced Fuel Cell Technology Development Team 1, R&D division, Hyundai Motor Company, Yongin 16891, Republic of Korea."
+        ]
+      },
+      {
+        "name": "Jaeyune Ryu",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea."
+        ]
+      },
+      {
+        "name": "Jungwon Park",
+        "affiliation": [
+          "Department of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Center for Nanocrystal Research, Institute for Basic Science (IBS), Seoul 08826, Republic of Korea.",
+          "Institute of Engineering Research, College of Engineering, Seoul National University, Seoul 08826, Republic of Korea.",
+          "Advanced Institute of Convergence Technology, Seoul National University, Suwon 16229, Republic of Korea."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719053",
+    "title": "Race, homosexuality, and AIDS in London: the response of British AIDS voluntary organizations to Black gay men's sexual health needs during the AIDS crisis (1980s-2000).",
+    "abstract": [
+      {
+        "text": "Focusing on three specific organizations-The Terrence Higgins Trust (THT), Blackliners, and The NAZ Project (Naz)-this article explores the different ways in which voluntary organizations responded to Black gay men (BGM) in Britain during the AIDS crisis from the 1980s to 2000. Illustrating how the place of BGM in Britain at this time was multidimensional and often contradictory, the first section demonstrates how they required safer-sex messaging that took account of the heterogeneous ways in which they experienced the intersection of racism and homophobia. Situated in this context, the second section explores for the first time the well-documented work of THT as it applied to BGM. It shows how although the Trust increasingly recognized the need to reach BGM, white activists struggled to grapple with issues of race. It demonstrates how their work on race was shaped by the broader context of changes to voluntary organizations' relationship to the state. In doing so, it makes clear the challenges of intersectional activism with communities of colour for white-dominated organizations and sheds light on how the HIV/AIDS voluntary sector responded to communities with particular needs. Taking Black AIDS organizations as its focus, the final section uncovers how Blackliners and Naz centred gay men in their work and reveals their nuanced and culturally sensitive initiatives. By tracing the contrasting ways in which these organizations navigated contested understandings of race in the final decades of the twentieth century, this article demonstrates the real-world consequences of the fragmentation of political conceptions of Blackness.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Modern British history (Oxford, England)",
+    "journalInfo": "Mod Br Hist. 2024. Dec. 24. doi: 10.1093/tcbh/hwae061. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1093/tcbh/hwae061",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Lucy Cann",
+        "affiliation": [
+          "School of Historical Studies, Birkbeck College, London, United Kingdom."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719052",
+    "title": "The cytokinin efflux transporter ABCC4 participates in Arabidopsis root system development.",
+    "abstract": [
+      {
+        "text": "The directional and sequential flow of cytokinin in plants is organized by a complex network of transporters. Genes involved in several aspects of cytokinin transport have been characterized; however, much of the elaborate system remains elusive. In this study, we used a transient expression system in tobacco (Nicotiana benthamiana) leaves to screen Arabidopsis (Arabidopsis thaliana) transporter genes and isolated ATP-BINDING CASSETTE TRANSPORTER C4 (ABCC4). Validation through drug-induced expression in Arabidopsis and heterologous expression in budding yeast revealed that ABCC4 effluxes the active form of cytokinins. During the seedling stage, ABCC4 was highly expressed in roots, and its expression was upregulated in response to cytokinin application. Loss-of-function mutants of ABCC4 displayed enhanced primary root elongation, similar to mutants impaired in cytokinin biosynthesis or signaling, that was suppressed by exogenous trans-zeatin treatment. In contrast, overexpression of the gene led to suppression of root elongation. These results suggest that ABCC4 plays a role in the efflux of active cytokinin, thereby contributing to root growth regulation. Additionally, cytokinin-dependent enlargement of stomatal aperture was impaired in the loss-of-function and overexpression lines. Our findings contribute to unraveling the many complexities of cytokinin flow and enhance our understanding of the regulatory mechanisms underlying root system development and stomatal opening in plants.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Plant physiology",
+    "journalInfo": "Plant Physiol. 2024. Dec. 24. 197. (1). doi: 10.1093/plphys/kiae628",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1093/plphys/kiae628",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Takuya Uragami",
+        "affiliation": [
+          "Graduate School of Bioagricultural Sciences, Nagoya University, Chikusa, Nagoya 464-8601, Japan."
+        ]
+      },
+      {
+        "name": "Takatoshi Kiba",
+        "affiliation": [
+          "Graduate School of Bioagricultural Sciences, Nagoya University, Chikusa, Nagoya 464-8601, Japan.",
+          "RIKEN Center for Sustainable Resource Science, Tsurumi, Yokohama 230-0045, Japan."
+        ]
+      },
+      {
+        "name": "Mikiko Kojima",
+        "affiliation": [
+          "RIKEN Center for Sustainable Resource Science, Tsurumi, Yokohama 230-0045, Japan."
+        ]
+      },
+      {
+        "name": "Yumiko Takebayashi",
+        "affiliation": [
+          "RIKEN Center for Sustainable Resource Science, Tsurumi, Yokohama 230-0045, Japan."
+        ]
+      },
+      {
+        "name": "Yuzuru Tozawa",
+        "affiliation": [
+          "Graduate School of Science and Engineering, Saitama University, Sakura, Saitama 338-8570, Japan."
+        ]
+      },
+      {
+        "name": "Yuki Hayashi",
+        "affiliation": [
+          "Graduate School of Science and Institute of Transformative Bio-Molecules (WPI-ITbM), Nagoya University, Chikusa, Nagoya 464-8602, Japan."
+        ]
+      },
+      {
+        "name": "Toshinori Kinoshita",
+        "affiliation": [
+          "Graduate School of Science and Institute of Transformative Bio-Molecules (WPI-ITbM), Nagoya University, Chikusa, Nagoya 464-8602, Japan."
+        ]
+      },
+      {
+        "name": "Hitoshi Sakakibara",
+        "affiliation": [
+          "Graduate School of Bioagricultural Sciences, Nagoya University, Chikusa, Nagoya 464-8601, Japan.",
+          "RIKEN Center for Sustainable Resource Science, Tsurumi, Yokohama 230-0045, Japan."
+        ]
+      }
+    ],
+    "ReferenceList": [
+      {
+        "Reference": [
+          {
+            "Citation": [
+              "Ando E, Ohnishi M, Wang Y, Matsushita T, Watanabe A, Hayashi Y, Fujii M, Ma JF, Inoue S-I, Kinoshita T. TWIN SISTER OF FT, GIGANTEA, and CONSTANS have a positive but indirect effect on blue light-induced stomatal opening in Arabidopsis. Plant Physiol. 2013:162(3):1529–1538. 10.1104/pp.113.217984"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.113.217984",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3707529",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "23669744",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Antoniadi I, Novák O, Gelová Z, Johnson A, Plíhal O, Simerský R, Mik V, Vain T, Mateo-Bonmatí E, Karady M, et al. . Cell-surface receptors enable perception of extracellular cytokinins. Nat Commun. 2020:11(1):4284. 10.1038/s41467-020-17700-9"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/s41467-020-17700-9",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC7453015",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "32855409",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Beemster GT, Baskin TI. Stunted plant 1 mediates effects of cytokinin, but not of auxin, on cell division and expansion in the root of Arabidopsis. Plant Physiol. 2000:124(4):1718–1727. 10.1104/pp.124.4.1718"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.124.4.1718",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC59869",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "11115888",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Blilou I, Xu J, Wildwater M, Willemsen V, Paponov I, Friml J, Heidstra R, Aida M, Palme K, Scheres B. The PIN auxin efflux facilitator network controls growth and patterning in Arabidopsis roots. Nature. 2005:433(7021):39–44. 10.1038/nature03184"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/nature03184",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "15635403",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Brady SM, Orlando DA, Lee J-Y, Wang JY, Koch J, Dinneny JR, Mace D, Ohler U, Benfey PN. A high-resolution root spatiotemporal map reveals dominant expression patterns. Science. 2007:318(5851):801–806. 10.1126/science.1146265"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1126/science.1146265",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "17975066",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Bürkle L, Cedzich A, Döpke C, Stransky H, Okumoto S, Gillissen B, Kühn C, Frommer WB. Transport of cytokinins mediated by purine transporters of the PUP family expressed in phloem, hydathodes, and pollen of Arabidopsis. Plant J. 2003:34(1):13–26. 10.1046/j.1365-313X.2003.01700.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1046/j.1365-313X.2003.01700.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "12662305",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Caesar K, Thamm AMK, Witthöft J, Elgass K, Huppenberger P, Grefen C, Horak J, Harter K. Evidence for the localization of the Arabidopsis cytokinin receptors AHK3 and AHK4 in the endoplasmic reticulum. J Exp Bot. 2011:62(15):5571–5580. 10.1093/jxb/err238"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/err238",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3223052",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "21841169",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Chickarmane VS, Gordon SP, Tarr PT, Heisler MG, Meyerowitz EM. Cytokinin signaling as a positional cue for patterning the apical-basal axis of the growing Arabidopsis shoot meristem. Proc Natl Acad Sci U S A. 2012:109(10):4002–4007. 10.1073/pnas.1200636109"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1073/pnas.1200636109",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3309735",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "22345559",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Clough SJ, Bent AF. Floral dip: a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana. Plant J. 1998:16(6):735–743. 10.1046/j.1365-313x.1998.00343.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1046/j.1365-313x.1998.00343.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "10069079",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Cortleven A, Leuendorf JE, Frank M, Pezzetta D, Bolt S, Schmülling T. Cytokinin action in response to abiotic and biotic stresses in plants. Plant Cell Environ. 2019:42(3):998–1018. 10.1111/pce.13494"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/pce.13494",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "30488464",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Das VSR, Rao IM, Raghavendra AS. Reversal of abscisic acid induced stomatal closure by benzyl adenine. New Phytol. 1976:76(3):449–452. 10.1111/j.1469-8137.1976.tb01480.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/j.1469-8137.1976.tb01480.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Dello Ioio R, Linhares FS, Scacchi E, Casamitjana-Martinez E, Heidstra R, Costantino P, Sabatini S. Cytokinins determine Arabidopsis root-meristem size by controlling cell differentiation. Curr Biol. 2007:17(8):678–682. 10.1016/j.cub.2007.02.047"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.cub.2007.02.047",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "17363254",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Dello Ioio R, Nakamura K, Moubayidin L, Perilli S, Taniguchi M, Morita MT, Aoyama T, Costantino P, Sabatini S. A genetic framework for the control of cell division and differentiation in the root meristem. Science. 2008:322(5906):1380–1384. 10.1126/science.1164147"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1126/science.1164147",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "19039136",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "De Rybel B, Adibi M, Breda AS, Wendrich JR, Smit ME, Novák O, Yamaguchi N, Yoshida S, Van Isterdael G, Palovaara J, et al. . Integration of growth and patterning during vascular tissue formation in Arabidopsis. Science. 2014:345(6197):1255215. 10.1126/science.1255215"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1126/science.1255215",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "25104393",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Du Y, Scheres B. Lateral root formation and the multiple roles of auxin. J Exp Bot. 2018:69(2):155–167. 10.1093/jxb/erx223"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/erx223",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "28992266",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Gillissen B, Bürkle L, André B, Kühn C, Rentsch D, Brandl B, Frommer WB. A new family of high-affinity transporters for adenine, cytosine, and purine derivatives in Arabidopsis. Plant Cell. 2000:12(2):291–300. 10.1105/tpc.12.2.291"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.12.2.291",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC139765",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "10662864",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Gruel J, Landrein B, Tarr P, Schuster C, Refahi Y, Sampathkumar A, Hamant O, Meyerowitz EM, Jönsson H. An epidermis-driven mechanism positions and scales stem cell niches in plants. Sci Adv. 2016:2(1):e1500989. 10.1126/sciadv.1500989"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1126/sciadv.1500989",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC4846443",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "27152324",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Hashimoto R, Ueta R, Abe C, Osakabe Y, Osakabe K. Efficient multiplex genome editing induces precise, and self-ligated type mutations in tomato plants. Front Plant Sci. 2018:9:916. 10.3389/fpls.2018.00916"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.3389/fpls.2018.00916",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC6037947",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "30018630",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Hayashi Y, Fukatsu K, Takahashi K, Kinoshita SN, Kato K, Sakakibara T, Kuwata K, Kinoshita T. Phosphorylation of plasma membrane H+-ATPase Thr881 participates in light-induced stomatal opening. Nat Commun. 2024:15(1):1194. 10.1038/s41467-024-45248-5"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/s41467-024-45248-5",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC10879185",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "38378616",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Hirose N, Makita N, Yamaya T, Sakakibara H. Functional characterization and expression analysis of a gene, OsENT2, encoding an equilibrative nucleoside transporter in rice suggest a function in cytokinin transport. Plant Physiol. 2005:138(1):196–206. 10.1104/pp.105.060137"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.105.060137",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC1104175",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "15849298",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Hirose N, Takei K, Kuroha T, Kamada-Nobusada T, Hayashi H, Sakakibara H. Regulation of cytokinin biosynthesis, compartmentalization and translocation. J Exp Bot. 2008:59(1):75–83. 10.1093/jxb/erm157"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/erm157",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "17872922",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Hu Y, Patra P, Pisanty O, Shafir A, Belew ZM, Binenbaum J, Ben Yaakov S, Shi B, Charrier L, Hyams G, et al. . Multi-Knock—a multi-targeted genome-scale CRISPR toolbox to overcome functional redundancy in plants. Nat Plants. 2023:9(4):572–587. 10.1038/s41477-023-01374-4"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/s41477-023-01374-4",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC7615256",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "36973414",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Hu Y, Shani E. Cytokinin activity—transport and homeostasis at the whole plant, cell, and subcellular levels. New Phytol. 2023:239(5):1603–1608. 10.1111/nph.19001"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/nph.19001",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "37243527",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Jasiński M, Stukkens Y, Degand H, Purnelle B, Marchand-Brynaert J, Boutry M. A plant plasma membrane ATP binding cassette-type transporter is involved in antifungal terpenoid secretion. Plant Cell. 2001:13(5):1095–1107. 10.1105/tpc.13.5.1095"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.13.5.1095",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC135550",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "11340184",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kakimoto T. Identification of plant cytokinin biosynthetic enzymes as dimethylallyl diphosphate:aTP/ADP isopentenyltransferases. Plant Cell Physiol. 2001:42(7):677–685. 10.1093/pcp/pce112"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/pcp/pce112",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "11479373",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kang J, Park J, Choi H, Burla B, Kretzschmar T, Lee Y, Martinoia E. Plant ABC transporters. Arabidopsis Book. 2011:9:e0153. 10.1199/tab.0153"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1199/tab.0153",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3268509",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "22303277",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kiba T, Inaba J, Kudo T, Ueda N, Konishi M, Mitsuda N, Takiguchi Y, Kondou Y, Yoshizumi T, Ohme-Takagi M, et al. . Repression of nitrogen starvation responses by members of the Arabidopsis GARP-type transcription factor NIGT1/HRS1 subfamily. Plant Cell. 2018:30(4):925–945. 10.1105/tpc.17.00810"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.17.00810",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC5969275",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "29622567",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kiba T, Mizutani K, Nakahara A, Takebayashi Y, Kojima M, Hobo T, Osakabe Y, Osakabe K, Sakakibara H. The trans-zeatin-type side-chain modification of cytokinins controls rice growth. Plant Physiol. 2023:192(3):2457–2474. 10.1093/plphys/kiad197"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/plphys/kiad197",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC10315312",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "36994817",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kiba T, Takei K, Kojima M, Sakakibara H. Side-chain modification of cytokinins controls shoot growth in Arabidopsis. Dev Cell. 2013:27(4):452–461. 10.1016/j.devcel.2013.10.004"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.devcel.2013.10.004",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "24286826",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kieber JJ, Schaller GE. Cytokinin signaling in plant development. Development. 2018:145(4):149344. 10.1242/dev.149344"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1242/dev.149344",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "29487105",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Klein M, Geisler M, Su JS, Kolukisaoglu HÜ, Azevedo L, Plaza S, Curtis MD, Richter A, Weder B, Schulz B, et al. . Disruption of AtMRP4, a guard cell plasma membrane ABCC-type ABC transporter, leads to deregulation of stomatal opening and increased drought susceptibility. Plant J. 2004:39(2):219–236. 10.1111/j.1365-313X.2004.02125.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/j.1365-313X.2004.02125.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "15225287",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Ko D, Kang J, Kiba T, Park J, Kojima M, Do J, Kim KY, Kwon M, Endler A, Song WY, et al. . Arabidopsis ABCG14 is essential for the root-to-shoot translocation of cytokinin. Proc Natl Acad Sci U S A. 2014:111(19):7150–7155. 10.1073/pnas.1321519111"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1073/pnas.1321519111",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC4024864",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "24778257",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kojima M, Kamada-Nobusada T, Komatsu H, Takei K, Kuroha T, Mizutani M, Ashikari M, Ueguchi-Tanaka M, Matsuoka M, Suzuki K, et al. . Highly sensitive and high-throughput analysis of plant hormones using MS-probe modification and liquid chromatographytandem mass spectrometry: an application for hormone profiling in Oryza sativa. Plant Cell Physiol. 2009:50(7):1201–1214. 10.1093/pcp/pcp057"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/pcp/pcp057",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC2709547",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "19369275",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kojima M, Makita N, Miyata K, Yoshino M, Iwase A, Ohashi M, Surjana A, Kudo T, Takeda-Kamiya N, Toyooka K, et al. . A cell wall–localized cytokinin/purine riboside nucleosidase is involved in apoplastic cytokinin metabolism in Oryza sativa. Proc Natl Acad Sci U S A. 2023:120(36):e2217708120. 10.1073/pnas.2217708120"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1073/pnas.2217708120",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC10483608",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "37639600",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Krall L, Raschke M, Zenk MH, Baron C. The Tzs protein from Agrobacterium tumefaciens C58 produces zeatin riboside 5′-phosphate from 4-hydroxy-3-methyl-2-(E)-butenyl diphosphate and AMP. FEBS Lett. 2002:527(1-3):315–318. 10.1016/S0014-5793(02)03258-1"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/S0014-5793(02)03258-1",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "12220681",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kubiasová K, Montesinos JC, Šamajová O, Nisler J, Mik V, Semerádová H, Plíhalová L, Novák O, Marhavý P, Cavallari N, et al. . Cytokinin fluoroprobe reveals multiple sites of cytokinin perception at plasma membrane and endoplasmic reticulum. Nat Commun. 2020:11(1):4285. 10.1038/s41467-020-17949-0"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/s41467-020-17949-0",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC7452891",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "32855390",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kurakawa T, Ueda N, Maekawa M, Kobayashi K, Kojima M, Nagato Y, Sakakibara H, Kyozuka J. Direct control of shoot meristem activity by a cytokinin-activating enzyme. Nature. 2007:445(7128):652–655. 10.1038/nature05504"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/nature05504",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "17287810",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Kuroha T, Tokunaga H, Kojima M, Ueda N, Ishida T, Nagawa S, Fukuda H, Sugimoto K, Sakakibara H. Functional analyses of LONELY GUY cytokinin-activating enzymes reveal the importance of the direct activation pathway in Arabidopsis. Plant Cell. 2009:21(10):3152–3169. 10.1105/tpc.109.068676"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.109.068676",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC2782294",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "19837870",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Labun K, Krause M, Torres Cleuren Y, Valen E. CRISPR genome editing made easy through the CHOPCHOP website. Curr Protoc. 2021:1(4):e46. 10.1002/cpz1.46"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1002/cpz1.46",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "33905612",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Laplaze L, Benkova E, Casimiro I, Maes L, Vanneste S, Swarup R, Weijers D, Calvo V, Parizot B, Herrera-Rodriguez MB, et al. . Cytokinins act directly on lateral root founder cells to inhibit root initiation. Plant Cell. 2007:19(12):3889–3900. 10.1105/tpc.107.055863"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.107.055863",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC2217640",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "18065686",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Lomin SN, Krivosheev DM, Steklov MY, Arkhipov DV, Osolodkin DI, Schmülling T, Romanov GA. Plant membrane assays with cytokinin receptors underpin the unique role of free cytokinin bases as biologically active ligands. J Exp Bot. 2015:66(7):1851–1863. 10.1093/jxb/eru522"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/eru522",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC4378623",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "25609827",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Lomin SN, Yonekura-Sakakibara K, Romanov GA, Sakakibara H. Ligand-binding properties and subcellular localization of maize cytokinin receptors. J Exp Bot. 2011:62(14):5149–5159. 10.1093/jxb/err220"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/err220",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3193018",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "21778179",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Malamy JE, Benfey PN. Organization and cell differentiation in lateral roots of Arabidopsis thaliana. Development. 1997:124(1):33–44. 10.1242/dev.124.1.33"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1242/dev.124.1.33",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "9006065",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Marhavý P, Duclercq J, Weller B, Feraru E, Bielach A, Offringa R, Friml J, Schwechheimer C, Murphy A, Benková E. Cytokinin controls polarity of PIN1-dependent auxin transport during lateral root organogenesis. Curr Biol. 2014:24(9):1031–1037. 10.1016/j.cub.2014.04.002"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.cub.2014.04.002",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "24768050",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Miyawaki K, Tarkowski P, Matsumoto-Kitano M, Kato T, Sato S, Tarkowska D, Tabata S, Sandberg G, Kakimoto T. Roles of Arabidopsis ATP/ADP isopentenyltransferases and tRNA isopentenyltransferases in cytokinin biosynthesis. Proc Natl Acad Sci U S A. 2006:103(44):16598–16603. 10.1073/pnas.0603522103"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1073/pnas.0603522103",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC1637627",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "17062755",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Mok DWS, Mok MC. Cytokinin metabolism and action. Annu Rev Plant Physiol Plant Mol Biol. 2001:52(1):89–118. 10.1146/annurev.arplant.52.1.89"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1146/annurev.arplant.52.1.89",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "11337393",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Moubayidin L, Perilli S, Dello Ioio R, Di Mambro R, Costantino P, Sabatini S. The rate of cell differentiation controls the arabidopsis root meristem growth phase. Curr Biol. 2010:20(12):1138–1143. 10.1016/j.cub.2010.05.035"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.cub.2010.05.035",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "20605455",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Muszynski MG, Moss-Taylor L, Chudalayandi S, Cahill J, Del Valle-Echevarria AR, Alvarez-Castro I, Petefish A, Sakakibara H, Krivosheev DM, Lomin SN, et al. . The maize hairy sheath frayed1 (hsf1) mutation alters leaf patterning through increased cytokinin signaling. Plant Cell. 2020:32(5):1501–1518. 10.1105/tpc.19.00677"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.19.00677",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC7203929",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "32205456",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Nozawa A, Ito D, Ibrahim M, Santos HJ, Tsuboi T, Tozawa Y. Characterization of mitochondrial carrier proteins of malaria parasite plasmodium falciparum based on in vitro translation and reconstitution. Parasitol Int. 2020:79:102160. 10.1016/j.parint.2020.102160"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.parint.2020.102160",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "32574727",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Ohashi-Ito K, Saegusa M, Iwamoto K, Oda Y, Katayama H, Kojima M, Sakakibara H, Fukuda H. A bHLH complex activates vascular cell division via cytokinin action in root apical meristem. Curr Biol. 2014:24(17):2053–2058. 10.1016/j.cub.2014.07.050"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.cub.2014.07.050",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "25131670",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Ohyama K, Ogawa M, Matsubayashi Y. Identification of a biologically active, small, secreted peptide in Arabidopsis by in silico gene screening, followed by LC-MS-based structure analysis. Plant J. 2008:55(1):152–160. 10.1111/j.1365-313X.2008.03464.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/j.1365-313X.2008.03464.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "18315543",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Osugi A, Kojima M, Takebayashi Y, Ueda N, Kiba T, Sakakibara H. Systemic transport of trans-zeatin and its precursor have differing roles in Arabidopsis shoots. Nat Plants. 2017:3:17112. 10.1038/nplants.2017.112"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/nplants.2017.112",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "28737742",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Osugi A, Sakakibara H. Q&A: how do plants respond to cytokinins and what is their importance? BMC Biol. 2015:13:102. 10.1186/s12915-015-0214-5"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1186/s12915-015-0214-5",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC4662812",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "26614311",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Payen L, Delugin L, Courtois A, Trinquart Y, Guillouzo A, Fardel O. The sulphonylurea glibenclamide inhibits multidrug resistance protein (MRP1) activity in human lung cancer cells. Br J Pharmacol. 2001:132(3):778–784. 10.1038/sj.bjp.0703863"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/sj.bjp.0703863",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC1572605",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "11159731",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Pierman B, Toussaint F, Bertin A, Lévy D, Smargiasso N, De Pauw E, Boutry M. Activity of the purified plant ABC transporter NtPDR1 is stimulated by diterpenes and sesquiterpenes involved in constitutive and induced defenses. J Biol Chem. 2017:292(47):19491–19502. 10.1074/jbc.M117.811935"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1074/jbc.M117.811935",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC5702685",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "28972149",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Radchuk V, Belew ZM, Gündel A, Mayer S, Hilo A, Hensel G, Sharma R, Neumann K, Ortleb S, Wagner S, et al. . SWEET11b transports both sugar and cytokinin in developing barley grains. Plant Cell. 2023:35(6):2186–2207. 10.1093/plcell/koad055"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/plcell/koad055",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC10226576",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "36857316",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Romanov GA, Lomin SN, Schmülling T. Biochemical characteristics and ligand-binding properties of Arabidopsis cytokinin receptor AHK3 compared to CRE1/AHK4 as revealed by a direct binding assay. J Exp Bot. 2006:57(15):4051–4058. 10.1093/jxb/erl179"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/erl179",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "17075078",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Romanov GA, Lomin SN, Schmülling T. Cytokinin signaling: from the ER or from the PM? That is the question!. New Phytol. 2018:218(1):41–53. 10.1111/nph.14991"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/nph.14991",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "29355964",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Ryu KH, Huang L, Kang HM, Schiefelbein J. Single-cell RNA sequencing resolves molecular relationships among individual plant cells. Plant Physiol. 2019:179(4):1444–1456. 10.1104/pp.18.01482"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.18.01482",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC6446759",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "30718350",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Sakakibara H. Cytokinins: activity, biosynthesis, and translocation. Annu Rev Plant Biol. 2006:57(1):431–449. 10.1146/annurev.arplant.57.032905.105231"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1146/annurev.arplant.57.032905.105231",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "16669769",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Sakakibara H. Cytokinin biosynthesis and transport for systemic nitrogen signaling. Plant J. 2021:105(2):421–430. 10.1111/tpj.15011"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/tpj.15011",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "33015901",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Sakakibara H. Five unaddressed questions about cytokinin biosynthesis. J Exp Bot. 2024:erae348. 10.1093/jxb/erae348"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/erae348",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "39133104",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Schaller GE, Bishopp A, Kieber JJ. The yin-yang of hormones: cytokinin and auxin interactions in plant development. Plant Cell. 2015:27(1):44–63. 10.1105/tpc.114.133595"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.114.133595",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC4330578",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "25604447",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Sun J, Hirose N, Wang X, Wen P, Xue L, Sakakibara H, Zuo J. Arabidopsis SOI33/AtENT8 gene encodes a putative equilibrative nucleoside transporter that is involved in cytokinin transport in planta. J Integr Plant Biol. 2005:47(5):588–603. 10.1111/j.1744-7909.2005.00104.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/j.1744-7909.2005.00104.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Swarup K, Benková E, Swarup R, Casimiro I, Péret B, Yang Y, Parry G, Nielsen E, De Smet I, Vanneste S, et al. . The auxin influx carrier LAX3 promotes lateral root emergence. Nat Cell Biol. 2008:10(8):946–954. 10.1038/ncb1754"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/ncb1754",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "18622388",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Takahashi N, Kajihara T, Okamura C, Kim Y, Katagiri Y, Okushima Y, Matsunaga S, Hwang I, Umeda M. Cytokinins control endocycle onset by promoting the expression of an APC/C activator in arabidopsis roots. Curr Biol. 2013:23(18):1812–1817. 10.1016/j.cub.2013.07.051"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.cub.2013.07.051",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "24035544",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Takei K, Dekishima Y, Eguchi T, Yamaya T, Sakakibara H. A new method for enzymatic preparation of isopentenyladenine-type and trans-zeatin-type cytokinins with radioisotope-labeling. J Plant Res. 2003:116:259–263. 10.1007/s10265-003-0098-2"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1007/s10265-003-0098-2",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "12728344",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Takei K, Sakakibara H, Sugiyama T. Identification of genes encoding adenylate isopentenyltransferase, a cytokinin biosynthesis enzyme, in Arabidopsis thaliana. J Biol Chem. 2001:276(28):26405–26410. 10.1074/jbc.M102130200"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1074/jbc.M102130200",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "11313355",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Takei K, Yamaya T, Sakakibara H. Arabidopsis CYP735A1 and CYP735A2 encode cytokinin hydroxylases that catalyse the biosynthesis of trans-zeatin. J Biol Chem. 2004:279(40):41866–41872. 10.1074/jbc.M406337200"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1074/jbc.M406337200",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "15280363",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Tanaka Y, Sano T, Tamaoki M, Nakajima N, Kondo N, Hasezawa S. Cytokinin and auxin inhibit abscisic acid-induced stomatal closure by enhancing ethylene production in Arabidopsis. J Exp Bot. 2006:57(10):2259–2266. 10.1093/jxb/erj193"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/erj193",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "16798847",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Tessi TM, Brumm S, Winklbauer E, Schumacher B, Pettinari G, Lescano I, González CA, Wanke D, Maurino VG, Harter K, et al. . Arabidopsis AZG2 transports cytokinins in vivo and regulates lateral root emergence. New Phytol. 2021:229(2):979–993. 10.1111/nph.16943"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/nph.16943",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "33070379",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Tessi TM, Maurino VG, Shahriari M, Meissner E, Novak O, Pasternak T, Schumacher BS, Ditengou F, Li Z, Duerr J, et al. . AZG1 is a cytokinin transporter that interacts with auxin transporter PIN1 and regulates the root stress response. New Phytol. 2023:238(5):1924–1941. 10.1111/nph.18879"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/nph.18879",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "36918499",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Thimann KV. Auxins and the growth of roots. Am J Bot. 1936:23(8):561–569. 10.1002/j.1537-2197.1936.tb09026.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1002/j.1537-2197.1936.tb09026.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "To JPC, Haberer G, Ferreira FJ, Deruère J, Mason MG, Schaller GE, Alonso JM, Ecker JR, Kieber JJ. Type-A Arabidopsis response regulators are partially redundant negative regulators of cytokinin signaling. Plant Cell. 2004:16(3):658–671. 10.1105/tpc.018978"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.018978",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC385279",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "14973166",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Tokunaga H, Kojima M, Kuroha T, Ishida T, Sugimoto K, Kiba T, Sakakibara H. Arabidopsis lonely guy (LOG) multiple mutants reveal a central role of the LOG-dependent pathway in cytokinin activation. Plant J. 2012:69(2):355–365. 10.1111/j.1365-313X.2011.04795.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/j.1365-313X.2011.04795.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "22059596",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Virlouvet L, Fromm M. Physiological and transcriptional memory in guard cells during repetitive dehydration stress. New Phytol. 2015:205(2):596–607. 10.1111/nph.13080"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/nph.13080",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "25345749",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Waese J, Fan J, Pasha A, Yu H, Fucile G, Shi R, Cumming M, Kelley LA, Sternberg MJ, Krishnakumar V, et al. . Eplant: visualizing and exploring multiple levels of data for hypothesis generation in plant biology. Plant Cell. 2017:29(8):1806–1821. 10.1105/tpc.17.00073"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.17.00073",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC5590499",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "28808136",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Werner T, Motyka V, Laucou V, Smets R, Van Onckelen H, Schmülling T. Cytokinin-deficient transgenic Arabidopsis plants show multiple developmental alterations indicating opposite functions of cytokinins in the regulation of shoot and root meristem activity. Plant Cell. 2003:15(11):2532–2550. 10.1105/tpc.014928"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1105/tpc.014928",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC280559",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "14555694",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Winter D, Vinegar B, Nahal H, Ammar R, Wilson G V, Provart NJ. An “electronic fluorescent pictograph” browser for exploring and analyzing large-scale biological data sets. PLoS One. 2007:2(8):e718. 10.1371/journal.pone.0000718"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1371/journal.pone.0000718",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC1934936",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "17684564",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Wu B, Meng J, Liu H, Mao D, Yin H, Zhang Z, Zhou X, Zhang B, Sherif A, Liu H, et al. . Suppressing a phosphohydrolase of cytokinin nucleotide enhances grain yield in rice. Nat Genet. 2023:55(8):1381–1389. 10.1038/s41588-023-01454-3"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/s41588-023-01454-3",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "37500729",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Wulfetange K, Lomin SN, Romanov GA, Stolz A, Heyl A, Schmülling T. The cytokinin receptors of arabidopsis are located mainly to the endoplasmic reticulum. Plant Physiol. 2011:156(4):1808–1818. 10.1104/pp.111.180539"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.111.180539",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3149959",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "21709172",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Wybouw B, De Rybel B. Cytokinin—a developing story. Trends Plant Sci. 2019:24(2):177–185. 10.1016/j.tplants.2018.10.012"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.tplants.2018.10.012",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "30446307",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Xiao Y, Liu D, Zhang G, Gao S, Liu L, Xu F, Che R, Wang Y, Tong H, Chu C. Big grain3, encoding a purine permease, regulates grain size via modulating cytokinin transport in rice. J Integr Plant Biol. 2019:61(5):581–597. 10.1111/jipb.12727"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/jipb.12727",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "30267474",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Xu D, Miao J, Yumoto E, Yokota T, Asahina M, Watahiki M. YUCCA9-mediated auxin biosynthesis and polar auxin transport synergistically regulate regeneration of root systems following root cutting. Plant Cell Physiol. 2017:58(10):1710–1723. 10.1093/pcp/pcx107"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/pcp/pcx107",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC5921505",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "29016906",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Xu L, Jia W, Tao X, Ye F, Zhang Y, Ding ZJ, Zheng SJ, Qiao S, Su N, Zhang Y, et al. . Structures and mechanisms of the Arabidopsis cytokinin transporter AZG1. Nat Plants. 2024:10(1):180–191. 10.1038/s41477-023-01590-y"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/s41477-023-01590-y",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "38172575",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Yadav RK, Girke T, Pasala S, Xie M, Reddy GV. Gene expression map of the Arabidopsis shoot apical meristem stem cell niche. Proc Natl Acad Sci U S A. 2009:106(12):4941–4946. 10.1073/pnas.0900843106"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1073/pnas.0900843106",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC2660727",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "19258454",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Yang Q, Zhang J, Kojima M, Takebayashi Y, Uragami T, Kiba T, Sakakibara H, Lee Y. ABCG11 modulates cytokinin responses in Arabidopsis thaliana. Front Plant Sci. 2022:13:976267. 10.3389/fpls.2022.976267"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.3389/fpls.2022.976267",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC9358225",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "35958217",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Yang Y, Costa A, Leonhardt N, Siegel RS, Schroeder JI. Isolation of a strong Arabidopsis guard cell promoter and its potential as a research tool. Plant Methods. 2008:4(1):6. 10.1186/1746-4811-4-6"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1186/1746-4811-4-6",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC2323621",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "18284694",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Yonekura-Sakakibara K, Kojima M, Yamaya T, Sakakibara H. Molecular characterization of cytokinin-responsive histidine kinases in maize. Differential ligand preferences and response to cis-zeatin. Plant Physiol. 2004:134(4):1654–1661. 10.1104/pp.103.037176"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.103.037176",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC419839",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "15064375",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhang K, Novak O, Wei Z, Gou M, Zhang X, Yu Y, Yang H, Cai Y, Strnad M, Liu C-J. Arabidopsis ABCG14 protein controls the acropetal translocation of root-synthesized cytokinins. Nat Commun. 2014:5(1):3274. 10.1038/ncomms4274"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1038/ncomms4274",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "24513716",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhang W, To JPC, Cheng C-Y, Eric Schaller G, Kieber JJ. Type-A response regulators are required for proper root apical meristem function through post-transcriptional regulation of PIN auxin efflux carriers. Plant J. 2011:68(1):1–10. 10.1111/j.1365-313X.2011.04668.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1111/j.1365-313X.2011.04668.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "21645147",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhang Y, Berman A, Shani E. Plant hormone transport and localization: signaling molecules on the move. Annu Rev Plant Biol. 2023:74(1):453–479. 10.1146/annurev-arplant-070722-015329"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1146/annurev-arplant-070722-015329",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "36889002",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhao J, Deng X, Qian J, Liu T, Ju M, Li J, Yang Q, Zhu X, Li W, Liu CJ, et al. . Arabidopsis ABCG14 forms a homodimeric transporter for multiple cytokinins and mediates long-distance transport of isopentenyladenine-type cytokinins. Plant Commun. 2023:4(2):100468. 10.1016/j.xplc.2022.100468"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1016/j.xplc.2022.100468",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC10030318",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "36307987",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhao J, Ding B, Zhu E, Deng X, Zhang M, Zhang P, Wang L, Dai Y, Xiao S, Zhang C, et al. . Phloem unloading via the apoplastic pathway is essential for shoot distribution of root-synthesized cytokinins. Plant Physiol. 2021a:186(4):2111–2123. 10.1093/plphys/kiab188"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/plphys/kiab188",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC8331157",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "33905524",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhao J, Ju M, Qian J, Zhang M, Liu T, Zhang K. A tobacco syringe agroinfiltration-based method for a phytohormone transporter activity assay using endogenous substrates. Front Plant Sci. 2021b:12:660966. 10.3389/fpls.2021.660966"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.3389/fpls.2021.660966",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC8056304",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "33889170",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zhao J, Yu N, Ju M, Fan B, Zhang Y, Zhu E, Zhang M, Zhang K. ABC transporter OsABCG18 controls the shootward transport of cytokinins and grain yield in rice. J Exp Bot. 2019:70(21):6277–6291. 10.1093/jxb/erz382"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1093/jxb/erz382",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC6859808",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "31504730",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zuo J, Niu QW, Chua NH. An estrogen receptor-based transactivator XVE mediates highly inducible gene expression in transgenic plants. Plant J. 2000:24(2):265–273. 10.1046/j.1365-313x.2000.00868.x"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1046/j.1365-313x.2000.00868.x",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "11069700",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zürcher E, Liu J, Di Donato M, Geisler M, Müller B. Plant development regulated by cytokinin sinks. Science. 2016:353(6303):1027–1030. 10.1126/science.aaf7254"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1126/science.aaf7254",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "27701112",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Citation": [
+              "Zürcher E, Tavor-Deslex D, Lituiev D, Enkerli K, Tarr PT, Müller B. A robust and sensitive synthetic sensor to monitor the transcriptional output of the cytokinin signaling network in planta. Plant Physiol. 2013:161(3):1066–1075. 10.1104/pp.112.211763"
+            ],
+            "ArticleIdList": [
+              {
+                "ArticleId": [
+                  {
+                    "_": "10.1104/pp.112.211763",
+                    "$": {
+                      "IdType": "doi"
+                    }
+                  },
+                  {
+                    "_": "PMC3585579",
+                    "$": {
+                      "IdType": "pmc"
+                    }
+                  },
+                  {
+                    "_": "23355633",
+                    "$": {
+                      "IdType": "pubmed"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719050",
+    "title": "Identification of plasma protein biomarkers for endometriosis and the development of statistical models for disease diagnosis.",
+    "abstract": [
+      {
+        "text": "Can a panel of plasma protein biomarkers be identified to accurately and specifically diagnose endometriosis?",
+        "level": "STUDY QUESTION",
+        "nlmCategory": "OBJECTIVE"
+      },
+      {
+        "text": "A novel panel of 10 plasma protein biomarkers was identified and validated, demonstrating strong predictive accuracy for the diagnosis of endometriosis.",
+        "level": "SUMMARY ANSWER",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "Endometriosis poses intricate medical challenges for affected individuals and their physicians, yet diagnosis currently takes an average of 7 years and normally requires invasive laparoscopy. Consequently, the need for a simple, accurate non-invasive diagnostic tool is paramount.",
+        "level": "WHAT IS KNOWN ALREADY",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "This study compared 805 participants across two independent clinical populations, with the status of all endometriosis and symptomatic control samples confirmed by laparoscopy. A proteomics workflow was used to identify and validate plasma protein biomarkers for the diagnosis of endometriosis.",
+        "level": "STUDY DESIGN, SIZE, DURATION",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "A proteomics discovery experiment identified candidate biomarkers before a targeted mass spectrometry assay was developed and used to compare plasma samples from 464 endometriosis cases, 153 general population controls, and 132 symptomatic controls. Three multivariate models were developed: Model 1 (logistic regression) for endometriosis cases versus general population controls, Model 2 (logistic regression) for rASRM stage II to IV (mild to severe) endometriosis cases versus symptomatic controls, and Model 3 (random forest) for stage IV (severe) endometriosis cases versus symptomatic controls.",
+        "level": "PARTICIPANTS/MATERIALS, SETTING, METHODS",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "A panel of 10 protein biomarkers were identified across the three models which added significant value to clinical factors. Model 3 (severe endometriosis vs symptomatic controls) performed the best with an area under the receiver operating characteristic curve (AUC) of 0.997 (95% CI 0.994-1.000). This model could also accurately distinguish symptomatic controls from early-stage endometriosis when applied to the remaining dataset (AUCs ≥0.85 for stage I to III endometriosis). Model 1 also demonstrated strong predictive performance with an AUC of 0.993 (95% CI 0.988-0.998), while Model 2 achieved an AUC of 0.729 (95% CI 0.676-0.783).",
+        "level": "MAIN RESULTS AND THE ROLE OF CHANCE",
+        "nlmCategory": "RESULTS"
+      },
+      {
+        "text": "The study participants were mostly of European ethnicity and the results may be biased from undiagnosed endometriosis in controls. Further analysis is required to enable the generalizability of the findings to other populations and settings.",
+        "level": "LIMITATIONS, REASONS FOR CAUTION",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "In combination, these plasma protein biomarkers and resulting diagnostic models represent a potential new tool for the non-invasive diagnosis of endometriosis.",
+        "level": "WIDER IMPLICATIONS OF THE FINDINGS",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "Subject recruitment at The Royal Women's Hospital, Melbourne, was supported in part by funding from the Australian National Health and Medical Research Council (NHMRC) project grants GNT1105321 and GNT1026033 and Australian Medical Research Future Fund grant no. MRF1199715 (P.A.W.R., S.H.-C., and M.H.). Proteomics International has filed patent WO 2021/184060 A1 that relates to endometriosis biomarkers described in this manuscript; S.B., R.L., and T.C. declare an interest in this patent. J.I., S.B., C.L., D.I., H.L., K.P., M.D., M.M., M.R., P.T., R.L., and T.C. are shareholders in Proteomics International. Otherwise, the authors have no conflicts of interest.",
+        "level": "STUDY FUNDING/COMPETING INTEREST(S)",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "N/A.",
+        "level": "TRIAL REGISTRATION NUMBER",
+        "nlmCategory": "BACKGROUND"
+      }
+    ],
+    "journalTitle": "Human reproduction (Oxford, England)",
+    "journalInfo": "Hum Reprod. 2024. Dec. 24. doi: 10.1093/humrep/deae278. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1093/humrep/deae278",
+    "KeywordList": [
+      "diagnosis",
+      "endometriosis",
+      "plasma protein biomarkers",
+      "proteomics",
+      "statistical models"
+    ],
+    "authors": [
+      {
+        "name": "E M Schoeman",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "S Bringans",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "K Peters",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "T Casey",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "C Andronis",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "L Chen",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "M Duong",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "J E Girling",
+        "affiliation": [
+          "Department of Obstetrics and Gynecology, University of Melbourne and Gynecology Research Centre, Royal Women's Hospital, Melbourne, VIC, Australia.",
+          "Department of Anatomy, School of Biological Sciences, University of Otago, Dunedin, New Zealand."
+        ]
+      },
+      {
+        "name": "M Healey",
+        "affiliation": [
+          "Department of Obstetrics and Gynecology, University of Melbourne and Gynecology Research Centre, Royal Women's Hospital, Melbourne, VIC, Australia."
+        ]
+      },
+      {
+        "name": "B A Boughton",
+        "affiliation": [
+          "School of Agriculture, Biomedicine and Environment, La Trobe University, Bundoora, VIC, Australia."
+        ]
+      },
+      {
+        "name": "D Ismail",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "J Ito",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "C Laming",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "H Lim",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "M Mead",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "M Raju",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "P Tan",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "R Lipscombe",
+        "affiliation": ["Proteomics International, Nedlands, WA, Australia."]
+      },
+      {
+        "name": "S Holdsworth-Carson",
+        "affiliation": [
+          "Department of Obstetrics and Gynecology, University of Melbourne and Gynecology Research Centre, Royal Women's Hospital, Melbourne, VIC, Australia.",
+          "Julia Argyrou Endometriosis Centre, Epworth HealthCare, Melbourne, VIC, Australia."
+        ]
+      },
+      {
+        "name": "P A W Rogers",
+        "affiliation": [
+          "Department of Obstetrics and Gynecology, University of Melbourne and Gynecology Research Centre, Royal Women's Hospital, Melbourne, VIC, Australia."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719049",
+    "title": "Microplasma Controlled Nanogold Sensor for SERS of Aliphatic and Aromatic Explosives with PCA-KNN Recognition.",
+    "abstract": [
+      {
+        "text": "Nanogold is an emerging material for enhancing surface-enhanced Raman scattering (SERS), which enables the detection of hazardous analytes at trace levels. This study presents a simple, single-step plasma synthesis method to control the size and yield of Au nanoparticles by using plasma-liquid redox chemistry. The pin-based argon plasma reduces the Au precursor in under 5 min, synthesizing Au spherical particles ranging from ∼20 nm at 0.025 mM to ∼90 nm at 1.0 mM, in addition to plate-like particles occurring at concentrations of 0.25-1.0 mM. The enhanced SERS responses correlated with the UV-vis absorption and reflectance profiles, which can be attributed to synergistic plasmonic hotspots created by the sphere-sphere, plate-sphere, and plate-plate nanogold interactions. This nanogold mixture, combined with gold-plated CPU grid pin arrays, facilitated the detection of trace explosives, including aromatic (TNT, TNB, and TNP) and aliphatic (RDX, PETN, and HMX) compounds. We demonstrate that stabler aliphatic analytes, associated with lower vapor pressure (10-10 atm), exhibit smaller signal fluctuations (RSD ∼ 6-10%) compared to their more volatile (10 atm) aromatic (RSD ∼ 12-17%) counterparts at similar analyte concentrations. The calculated limit of detection (LoD) was found to be ∼2-6 nM and ∼600-900 pM for aromatic and aliphatic explosives, respectively. Finally, we show that the poorer performance of aromatic explosives under the same sensing conditions affects SERS-PCA separation, which can then be improved either by a machine learning approach (PCA with k-NN classification) or by consideration of a specific NO symmetric stretching fingerprint range.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "ACS sensors",
+    "journalInfo": "ACS Sens. 2024. Dec. 24. doi: 10.1021/acssensors.4c02651. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1021/acssensors.4c02651",
+    "KeywordList": [
+      "SERS",
+      "explosives",
+      "gold nanoparticles",
+      "machine learning",
+      "plasma synthesis"
+    ],
+    "authors": [
+      {
+        "name": "Jaka Olenik",
+        "affiliation": [
+          "York Plasma Institute, School of Physics, Engineering and Technology, University of York, York YO10 5DD, U.K.",
+          "Department for Gaseous Electronics F6, Jozef Stefan Institute, 1000 Ljubljana, Slovenia."
+        ]
+      },
+      {
+        "name": "Vasyl Shvalya",
+        "affiliation": [
+          "Department for Gaseous Electronics F6, Jozef Stefan Institute, 1000 Ljubljana, Slovenia."
+        ]
+      },
+      {
+        "name": "Martina Modic",
+        "affiliation": [
+          "Department for Gaseous Electronics F6, Jozef Stefan Institute, 1000 Ljubljana, Slovenia."
+        ]
+      },
+      {
+        "name": "Damjan Vengust",
+        "affiliation": [
+          "Department for Gaseous Electronics F6, Jozef Stefan Institute, 1000 Ljubljana, Slovenia."
+        ]
+      },
+      {
+        "name": "Uroš Cvelbar",
+        "affiliation": [
+          "Department for Gaseous Electronics F6, Jozef Stefan Institute, 1000 Ljubljana, Slovenia."
+        ]
+      },
+      {
+        "name": "James L Walsh",
+        "affiliation": [
+          "York Plasma Institute, School of Physics, Engineering and Technology, University of York, York YO10 5DD, U.K.",
+          "Department for Gaseous Electronics F6, Jozef Stefan Institute, 1000 Ljubljana, Slovenia."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719048",
+    "title": "Iron-Assisted and Cu-Mediated Direct Aminocarbonylation of Nitroarene with Boronic Acid.",
+    "abstract": [
+      {
+        "text": "Herein, we have established the formation of diaryl amide by aminocarbonylation of nitrobenzene with boronic acids. The method works in the catalytic presence of economical and commercially available CuI salt, which was significantly promoted by the FeSe(CO) cluster. Mo(CO) serves as a source of CO, and it also acts as a reductant with a combination of iron cluster. Moreover, all the reaction worked under the ligand-free system and produced the desired diaryl amide in a significant time of 10 h. Water, a green solvent, was used as a source of hydrogen for the reduction of nitrobenzene to aniline. The method depicts a suitable functional group tolerance and produces a wide range of substrates in good to excellent amounts. To the best of our knowledge, this is the first report for the direct aminocarbonylation mediated by highly economical CuI. Moreover, water as a source of hydrogen for the reduction of nitroarene is always appreciated.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "The Journal of organic chemistry",
+    "journalInfo": "J Org Chem. 2024. Dec. 24. doi: 10.1021/acs.joc.4c02232. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1021/acs.joc.4c02232",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Deepak Sharma",
+        "affiliation": [
+          "Department of Chemistry, Malaviya National Institute of Technology Jaipur, JLN Marg, Jaipur 302017, Rajasthan, India."
+        ]
+      },
+      {
+        "name": "Charu Sharma",
+        "affiliation": [
+          "Department of Chemistry, Malaviya National Institute of Technology Jaipur, JLN Marg, Jaipur 302017, Rajasthan, India."
+        ]
+      },
+      {
+        "name": "Sangeeta Kumari",
+        "affiliation": [
+          "Department of Chemistry, Malaviya National Institute of Technology Jaipur, JLN Marg, Jaipur 302017, Rajasthan, India."
+        ]
+      },
+      {
+        "name": "Raj K Joshi",
+        "affiliation": [
+          "Department of Chemistry, Malaviya National Institute of Technology Jaipur, JLN Marg, Jaipur 302017, Rajasthan, India."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719047",
+    "title": "Self-reported diagnoses of dietary allergens and fecundability in a North American cohort.",
+    "abstract": [
+      {
+        "text": "To what extent are self-reported diagnoses of food allergies associated with fecundability, the per-cycle probability of conception?",
+        "level": "STUDY QUESTION",
+        "nlmCategory": "OBJECTIVE"
+      },
+      {
+        "text": "Fecundability was not appreciably associated with self-reported food allergy diagnoses, number of food allergies, age at first diagnosis, or time since last allergic reaction.",
+        "level": "SUMMARY ANSWER",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "Food allergies are atopic diseases that are characterized by an inappropriate immune response to a normally harmless dietary substance. While some studies have observed associations between atopic disorders and infertility, no study has examined the association between food allergies and fecundability, the per-cycle probability of conception.",
+        "level": "WHAT IS KNOWN ALREADY",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "A prospective cohort study including 7711 females trying to conceive without fertility treatment at enrollment (2018-2022) and followed for up to 12 months.",
+        "level": "STUDY DESIGN, SIZE, DURATION",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "We analyzed data from an internet-based prospective cohort of pregnancy planners in North America. At baseline, female participants completed an online questionnaire on demographic, medical, and lifestyle factors that included questions on food allergy diagnoses, age at diagnosis, and time since last reaction. Participants completed bimonthly follow-up questionnaires for up to 12 months to ascertain pregnancy status. The analysis included 7711 PRESTO participants with ≤6 menstrual cycles of pregnancy attempt time at enrollment (2018-2022). We used proportional probabilities regression models to estimate fecundability ratios (FRs) and 95% CIs, adjusted for demographic, lifestyle, and behavioral characteristics.",
+        "level": "PARTICIPANTS/MATERIALS, SETTING, METHODS",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "A total of 1028 (13%) participants reported a history of diagnosed food allergy, with the most commonly reported allergy being dairy or shellfish. A history of diagnosed food allergy (vs none) was not appreciably associated with fecundability (FR = 0.93, 95% CI: 0.86-1.02), though specific allergens were associated with fecundability in opposing directions (e.g. inverse association with egg and positive association with soy). We observed non-monotonic associations between fecundability and number of food allergies, age at first allergy diagnosis, and time since last allergic reaction. Inverse associations between self-reported diagnosed food allergens (all types combined) and reduced fecundability were slightly stronger among those with BMI ≥25 (FR = 0.90, 95% CI: 0.80-1.01) than those with BMI <25 (FR = 0.97, 95% CI: 0.86-1.10) and among those born ≥1990 (FR = 0.91, 95% CI: 0.80-1.03) compared with those born <1990 (FR = 0.96, 95% CI: 0.86-1.08).",
+        "level": "MAIN RESULTS AND THE ROLE OF CHANCE",
+        "nlmCategory": "RESULTS"
+      },
+      {
+        "text": "Non-differential misclassification of food allergies was likely given that we relied on self-reported diagnoses. Confounding by unmeasured dietary factors may have influenced associations between specific food allergens and fecundability, if participants were deficient in specific nutrients because they excluded or substituted selected foods due to the allergy. Generalizability may be reduced given our study population was restricted to North American pregnancy planners.",
+        "level": "LIMITATIONS, REASONS FOR CAUTION",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "Diagnoses of food allergies have substantially increased over the past several decades. Our findings indicate that self-reported diagnoses of food allergies were not meaningfully associated with subfertility.",
+        "level": "WIDER IMPLICATIONS OF THE FINDINGS",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "This work was supported by NIH/NICHD grant R01-HD086742. S.L.M. was supported by the Intramural Research Program of the Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD. In the last 3 years, PRESTO has received in-kind donations from Swiss Precision Diagnostics and Kindara.com for primary data collection. L.A.W. is a paid consultant for AbbVie, Inc. and the Gates Foundation. The other authors have no competing interests to declare.",
+        "level": "STUDY FUNDING/COMPETING INTEREST(S)",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "N/A.",
+        "level": "TRIAL REGISTRATION NUMBER",
+        "nlmCategory": "BACKGROUND"
+      }
+    ],
+    "journalTitle": "Human reproduction (Oxford, England)",
+    "journalInfo": "Hum Reprod. 2024. Dec. 24. doi: 10.1093/humrep/deae277. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1093/humrep/deae277",
+    "KeywordList": [
+      "allergy",
+      "dietary allergen",
+      "fertility",
+      "food hypersensitivity",
+      "time to pregnancy"
+    ],
+    "authors": [
+      {
+        "name": "Sydney K Willis",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "name": "Krystal E Kuan",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "name": "Elizabeth E Hatch",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "name": "Holly M Crowe",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA.",
+          "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "name": "Amelia K Wesselink",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "name": "Kenneth J Rothman",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "name": "Sunni L Mumford",
+        "affiliation": [
+          "Epidemiology Branch, Division of Intramural Population Health Research, Eunice Kennedy Shriver National Institute of Child Health and Human Development, Bethesda, MD, USA.",
+          "Department of Biostatistics and Epidemiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+        ]
+      },
+      {
+        "name": "Lauren A Wise",
+        "affiliation": [
+          "Department of Epidemiology, Boston University School of Public Health, Boston, MA, USA."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719046",
+    "title": "Biosimilars versus the originator of follitropin alfa for ovarian stimulation in ART: a systematic review and meta-analysis.",
+    "abstract": [
+      {
+        "text": "Is the probability of pregnancy different between women using biosimilars versus the originator of follitropin alfa for ovarian stimulation in ART?",
+        "level": "STUDY QUESTION",
+        "nlmCategory": "OBJECTIVE"
+      },
+      {
+        "text": "Meta-analysis of eight randomized clinical trials (RCTs) suggests that live birth, clinical, and ongoing pregnancy rates are significantly lower with biosimilars of follitropin alfa compared to the originator.",
+        "level": "SUMMARY ANSWER",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "All biosimilars of follitropin alfa have received regulatory approval by demonstrating non-inferiority in the number of retrieved oocytes compared to the originator. Nevertheless, the most clinically relevant outcome in ART for both clinicians and patients is live birth. A meta-analysis published in 2021 suggested that biosimilars of follitropin alfa are associated with lower live birth rates compared to the originator. Since then, more relevant RCTs have been published, and thus an updated critical synthesis of the available evidence is urgently warranted.",
+        "level": "WHAT IS KNOWN ALREADY",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "A systematic review and meta-analysis were performed to compare biosimilars versus the originator of follitropin alfa in women undergoing ovarian stimulation for ART. A literature search was conducted until January 2024 in MEDLINE, Embase, Cochrane CENTRAL, Scopus, Web of Science, WHO, Clinicaltrials.gov, and others to identify eligible RCTs. The primary outcome was live birth. Secondary outcomes included clinical and ongoing pregnancy, duration of gonadotrophin administration and total FSH dose, number of oocytes retrieved, and ovarian hyperstimulation syndrome (OHSS).",
+        "level": "STUDY DESIGN, SIZE, DURATION",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "Data were extracted independently by two reviewers. Quality was assessed using the RoB-2 Tool by Cochrane, and a sensitivity analysis was performed by excluding studies having high risk of bias. Meta-analysis was performed using the random or fixed effects model depending on the presence or not of significant (>50%) statistical heterogeneity (I2). Results were combined using the intention-to-treat principle and are reported as risk ratio (RR) or weighted-mean-difference (WMD) with 95% CIs.",
+        "level": "PARTICIPANTS/MATERIALS, SETTING, METHODS",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "Eight RCTs (n = 2987) (published between 2015 and 2023) were identified, assessing seven biosimilar products of follitropin alfa. The number of patients included in the eligible studies ranged from 100 to 1100. Three of the RCTs were deemed to be at high risk of bias. The duration of gonadotrophin administration was shorter in the biosimilars group (WMD: -0.19 days, 95% CI: -0.34 to -0.05; I2 = 0%, 5 studies, n = 2081), while no difference was observed in the total dose of FSH (WMD: -34.69 IUs, 95% CI: -74.54 to 5.16; I2 = 15.53%, 5 studies, n = 2081). No difference was observed in the number of oocytes retrieved (WMD: 0.27, 95% CI: -0.43 to 0.96; I2 = 10.7%, 6 studies, n = 1527) and OHSS rates (RR: 1.17, 95% CI: 0.90-1.52; I2 = 0%, 8 studies, n = 2986) between the two groups. A significantly lower live birth rate was observed using the biosimilars of follitropin alfa compared to the originator in women undergoing ovarian stimulation for ART (RR: 0.83, 95% CI: 0.72-0.96; I2 = 0%, 6 studies, n = 2335; moderate certainty of evidence). Similarly, clinical pregnancy (RR: 0.82, 95% CI: 0.73-0.92; I2 = 0%, 7 studies, n = 2876; low certainty of evidence) and ongoing pregnancy rates (RR: 0.81, 95% CI: 0.70-0.94; I2 = 0%, 7 studies, n = 1886; low certainty of evidence) were lower in the biosimilars group. These results were not materially altered in the sensitivity analyses performed where studies deemed at high risk of bias were excluded.",
+        "level": "MAIN RESULTS AND THE ROLE OF CHANCE",
+        "nlmCategory": "RESULTS"
+      },
+      {
+        "text": "This meta-analysis included RCTs evaluating seven different biosimilars of follitropin alfa; however, pooled data appeared to be homogeneous. No data were available comparing biosimilars of follitropin alfa with the originator regarding cumulative live birth rate per aspiration or the probability of live birth in frozen thawed cycles. The population examined in the eligible RCTs includes mainly normal responders and no RCTs were identified focusing on poor or high responders.",
+        "level": "LIMITATIONS, REASONS FOR CAUTION",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "Clinicians should be informed that although biosimilars of follitropin alfa produce similar number of oocytes with the originator, pregnancy rates after a fresh transfer are likely to be lower. Future research should focus on optimizing the production and use of biosimilars of follitropin alfa, so that they lead to pregnancy rates comparable to the originator.",
+        "level": "WIDER IMPLICATIONS OF THE FINDINGS",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "No external funding was used for this study. K.I.K. and A.S. have no competing interest to disclose. E.M.K. reports personal fees and non-financial support from Merck, Ferring, IBSA, and Vianex. B.W.M. has been supported by an investigator grant from NHMRC, has received consulting fees from Organon, Merck, and Norgine, research support and non-financial support from Merck KGaA, Darmstadt, Germany. B.W.M. also reports having stocks from OBsEva. C.A.V. reports grants, personal fees, and non-financial support from Merck KGaA, Darmstadt, Germany, personal fees, and non-financial support from Merck, Sharpe and Dohme, personal fees and non-financial support from Organon, grants and non-financial support from Ferring, personal fees from IBSA, and personal fees and non-financial support from Gedeon Richter and Vianex.",
+        "level": "STUDY FUNDING/COMPETING INTEREST(S)",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "Protocol for the systematic review registered in The International Prospective Register of Systematic Reviews (PROSPERO; CRD42024498237).",
+        "level": "REGISTRATION NUMBER",
+        "nlmCategory": "BACKGROUND"
+      }
+    ],
+    "journalTitle": "Human reproduction (Oxford, England)",
+    "journalInfo": "Hum Reprod. 2024. Dec. 24. doi: 10.1093/humrep/deae274. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1093/humrep/deae274",
+    "KeywordList": [
+      "ICSI",
+      "IVF",
+      "biosimilars",
+      "follitropin-alfa",
+      "live birth rate",
+      "r-hFSH"
+    ],
+    "authors": [
+      {
+        "name": "Kokkoni I Kiose",
+        "affiliation": [
+          "Unit for Human Reproduction, 1st Dept of Obstetrics and Gynaecology, Medical School, Faculty of Health Sciences, Aristotle University of Thessaloniki, Thessaloniki, Greece."
+        ]
+      },
+      {
+        "name": "Ashleigh Storr",
+        "affiliation": ["Fertility Associates, Auckland, New Zealand."]
+      },
+      {
+        "name": "Efstratios M Kolibianakis",
+        "affiliation": [
+          "Unit for Human Reproduction, 1st Dept of Obstetrics and Gynaecology, Medical School, Faculty of Health Sciences, Aristotle University of Thessaloniki, Thessaloniki, Greece."
+        ]
+      },
+      {
+        "name": "Ben W Mol",
+        "affiliation": [
+          "Department of Obstetrics and Gynecology, University of Monash, Monash, Clayton, VIC, Australia."
+        ]
+      },
+      {
+        "name": "Christos A Venetis",
+        "affiliation": [
+          "Unit for Human Reproduction, 1st Dept of Obstetrics and Gynaecology, Medical School, Faculty of Health Sciences, Aristotle University of Thessaloniki, Thessaloniki, Greece.",
+          "Centre for Big Data Research in Health, Faculty of Medicine & Health, University of New South Wales, Sydney, NSW, Australia."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719045",
+    "title": "A pilot study of transcriptomic preimplantation genetic testing (PGT-T): towards a new step in embryo selection?",
+    "abstract": [
+      {
+        "text": "Is it possible to predict an euploid chromosomal constitution and identify a transcriptomic profile compatible with extended embryonic development from RNA sequencing (RNA-Seq) data?",
+        "level": "STUDY QUESTION",
+        "nlmCategory": "OBJECTIVE"
+      },
+      {
+        "text": "It has been possible to obtain a karyotype comparable to preimplantation genetic testing for aneuploidy (PGT-A), in addition to a transcriptomic signature of embryos which might be suggestive of improved implantation capacity.",
+        "level": "SUMMARY ANSWER",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "Conventional assessment of embryo competence, based on morphology and morphokinetic, lacks knowledge of molecular aspects and faces controversy in predicting ploidy status. Understanding the embryonic transcriptome is crucial, as gene expression influences development and implantation. PGT has improved pregnancy rates, but problems persist when high-quality euploid embryos do not reach term. In fact, only around 50-60% implant, of which 10% result in miscarriage. Comprehensive approaches, including RNA-Seq, offer the potential to discover molecular markers of reproductive competence, and could theoretically be combined with extended-embryo culture platforms up to Day 14 that can be utilized as a proxy to study embryo development at post-implantation stages.",
+        "level": "WHAT IS KNOWN ALREADY",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "This prospective pilot cohort study was conducted from March 2023 to August 2023. A total of 30 vitrified human blastocysts with previous PGT-A diagnosis on Day 5 (D5) or Day 6 (D6) of development were analysed: n = 15 euploid and n = 15 aneuploid. Finally, 21 embryo samples were included in the study; the rest (n = 9) were excluded due to poor quality pre-sequencing data (n = 7) or highly discordant data (n = 2).",
+        "level": "STUDY DESIGN, SIZE, DURATION",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "Following warming and re-expansion, embryos underwent a second trophectoderm (TE) biopsy. The embryos were then cultured until day 11 to assess their development. Biopsy analysis by RNA-Seq, studied the differential expressed genes (DEG) to compare embryos which did not or did attach to the plate: unattached embryos (n = 12) versus attached embryos (n = 9). Thus, we also obtained a specific transcriptomic signature of embryos with a \"theoretical\" capacity for sustained implantation, based on plate attachment on day 11.",
+        "level": "PARTICIPANTS/MATERIALS, SETTING, METHODS",
+        "nlmCategory": "METHODS"
+      },
+      {
+        "text": "The digital karyotype obtained by RNA-Seq showed good concordance with the earlier PGT-A data, with a sensitivity of 0.81, a specificity of 0.83, a Cohen's Kappa of 0.66, and an area under the ROC of 0.9. At the gene level, 76 statistically significant DEGs were found in the comparison unattached versus attached embryos (Padj < 0.05; FC > 1). To address the functional implications of these differences, significantly deregulated pathways according to GO and KEGG categories were identified. The mural trophectoderm (TE) of the unattached blastocysts showed 63 significantly deregulated terms, displaying upregulation in autophagy, apoptosis, protein kinase and ubiquitin-like protein ligase activity, and downregulation of ribosome, spliceosome, kinetochore, segregation, and chromosome condensation processes. The overall transcriptomic signature specific to embryos still attached to the plate on day 11 (with a theoretically higher implantation capacity) consists of 501 genes, including: EMP2, AURKB, FOLR1, NOTCH3, LRP2, FZD5, MDH1, APOD, GPX8, COLEC12, HSPA1A, CMTM7, BEX3, which are related to implantation and embryonic development (raw P-value < 0.05; shrunk LFC > 1.1). These findings indicate that it might be possible to identify euploid embryos with a greater capacity for implantation and development, after excluding those embryos that present chromosomal alterations.",
+        "level": "MAIN RESULTS AND THE ROLE OF CHANCE",
+        "nlmCategory": "RESULTS"
+      },
+      {
+        "text": "This study included a small sample size, remarkable variability between samples, and low success rate of RNA amplification. Also, structural chromosomal abnormalities were not included, and it was not possible to diagnose mosaic embryos. TE biopsy does not assure the chromosomal status of the whole embryo. The maximum day for in vitro development was Day 11, and attachment to the plate on this day does not provide a clear indication of implantation capacity and viability, which was not tested in this study.",
+        "level": "LIMITATIONS, REASONS FOR CAUTION",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "The short-term goals following on from this pilot study is to expand the sample size with embryos of more complex abnormalities, and to perform a prospective in vitro preclinical validation. In a more distant future and with optimal results, this technique could have clinical application, thus increasing clinical outcomes by assessing both chromosomal content and transcriptomic profiling.",
+        "level": "WIDER IMPLICATIONS OF THE FINDINGS",
+        "nlmCategory": "CONCLUSIONS"
+      },
+      {
+        "text": "The Institut Valencià de Competitivitat Empresarial (IVACE) (IMIDCA/2022/39) and Generalitat Valenciana (CIACIF/2021/11) supported the present study. A.C. is an employee of JUNO Genetics. He has received honoraria for an IBSA lecture and a Merck lecture. He is also a minor shareholder of IVIRMA Global. The other authors have no conflicts of interest to declare.",
+        "level": "STUDY FUNDING/COMPETING INTEREST(S)",
+        "nlmCategory": "BACKGROUND"
+      },
+      {
+        "text": "N/A.",
+        "level": "TRIAL REGISTRATION NUMBER",
+        "nlmCategory": "BACKGROUND"
+      }
+    ],
+    "journalTitle": "Human reproduction (Oxford, England)",
+    "journalInfo": "Hum Reprod. 2024. Dec. 24. doi: 10.1093/humrep/deae265. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1093/humrep/deae265",
+    "KeywordList": [
+      "RNA sequencing",
+      "embryo selection",
+      "extended embryo culture",
+      "transcriptomic",
+      "transcriptomic signature"
+    ],
+    "authors": [
+      {
+        "name": "David Ortega-Jaén",
+        "affiliation": [
+          "IVIRMA Global Research Alliance, IVI Foundation, Health Research Institute La Fe, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "Carlos Mora-Martinez",
+        "affiliation": [
+          "Department of Research, Health in Code, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "Antonio Capalbo",
+        "affiliation": [
+          "JUNO Genetics-Italy, Reproductive Genetics, Rome, Italy.",
+          "Unit of Medical Genetics, Center for Advanced Studies and Technology (CAST), \"G. d'Annunzio\" University of Chieti-Pescara, Chieti, Italy."
+        ]
+      },
+      {
+        "name": "Amparo Mifsud",
+        "affiliation": [
+          "Department of Research, IVF Laboratory, IVIRMA Global, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "Mireia Boluda-Navarro",
+        "affiliation": [
+          "Department of Research, Health in Code, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "Amparo Mercader",
+        "affiliation": [
+          "Department of Research, IVF Laboratory, IVIRMA Global, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "Ángel Martín",
+        "affiliation": [
+          "IVIRMA Global Research Alliance, IVI Foundation, Health Research Institute La Fe, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "María Luisa Pardiñas",
+        "affiliation": [
+          "IVIRMA Global Research Alliance, IVI Foundation, Health Research Institute La Fe, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "Julia Gil",
+        "affiliation": [
+          "IVIRMA Global Research Alliance, IVI Foundation, Health Research Institute La Fe, Valencia, Spain."
+        ]
+      },
+      {
+        "name": "María José de Los Santos",
+        "affiliation": [
+          "IVIRMA Global Research Alliance, IVI Foundation, Health Research Institute La Fe, Valencia, Spain.",
+          "Department of Research, IVF Laboratory, IVIRMA Global, Valencia, Spain."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719043",
+    "title": "Visible-Light-Absorbing Photosensitizer Nanostructures for Treatment of Pathogenic Bacteria and Induction of Systemic Acquired Resistance.",
+    "abstract": [
+      {
+        "text": "Induction of systemic acquired resistance (SAR) in plants to control bacterial diseases has become an effective solution to the problems of agrochemical resistance and ecological environment damage caused by long-term and large-scale use of traditional bactericides. However, current SAR-inducing compounds are often unable to rapidly eliminate pathogenic bacteria in infected plant tissues to prevent further spread of the disease, severely restraining the potential for extensive application in agriculture. Herein, we address the limitations by developing a series of visible-light-absorbing aggregation-induced emission photosensitizers suitable for agricultural use. The photosensitizer (MTSQ2) is modulated by molecular engineering to have optimal optical properties, reactive oxygen species (ROS) generation efficiency, and bacterial targeting affinity, thereby exhibiting an effective antibacterial photodynamic activity against the phytopathogenic bacteria  pv  DC3000 in the model plant  under white light illumination. Moreover, the ROS produced in situ by MTSQ2 can further regulate the ROS-AzA-G3P signaling pathway, thus allowing to induce SAR throughout the plant to prevent secondary infections. The current study can provide a feasible strategy for developing desirable photosensitizers to achieve sustainable management of plant diseases.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "ACS nano",
+    "journalInfo": "ACS Nano. 2025. Jan. 14. 19. (1). :1771. doi: 10.1021/acsnano.4c16026. Epub 2024 12 24",
+    "publicationDate": "2025-Jan-14",
+    "doi": "10.1021/acsnano.4c16026",
+    "KeywordList": [
+      "aggregation-induced emission",
+      "antibacterial photodynamic treatments",
+      "molecular engineering",
+      "reactive oxygen species",
+      "systemic acquired resistance"
+    ],
+    "authors": [
+      {
+        "name": "Yinglong Wu",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Xiaodong Zhang",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Lihe Sun",
+        "affiliation": [
+          "Biomedical Division, State Key Laboratory of Luminescent Materials and Devices, College of Materials Science and Engineering, South China University of Technology, 381 Wushan Road, Guangzhou 510640, China."
+        ]
+      },
+      {
+        "name": "Yue Zhao",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Xiaokai Chen",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Wenbin Zhong",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Ting He",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Yi Guo",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Dongdong Wang",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Hongzhong Chen",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      },
+      {
+        "name": "Fang Zeng",
+        "affiliation": [
+          "Biomedical Division, State Key Laboratory of Luminescent Materials and Devices, College of Materials Science and Engineering, South China University of Technology, 381 Wushan Road, Guangzhou 510640, China."
+        ]
+      },
+      {
+        "name": "Shuizhu Wu",
+        "affiliation": [
+          "Biomedical Division, State Key Laboratory of Luminescent Materials and Devices, College of Materials Science and Engineering, South China University of Technology, 381 Wushan Road, Guangzhou 510640, China."
+        ]
+      },
+      {
+        "name": "Yanli Zhao",
+        "affiliation": [
+          "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 21 Nanyang Link, Singapore 637371, Singapore."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719042",
+    "title": "How I Treat AML relapse after allogeneic HCT.",
+    "abstract": [
+      {
+        "text": "Allogeneic hematopoietic stem-cell transplantation (HCT) is one of the principal curative approaches in the treatment of acute myeloid leukemia (AML); however, relapse post-transplantation remains a catastrophic event with poor prognosis. The incidence of relapse has remained unchanged over the last three decades despite an evolving understanding of the immunobiology of the graft-versus leukemia effect and the immune escape mechanisms that lead to post-HCT relapse. The approach to post-transplant relapse is highly individualized and is dictated both by disease biology and genomics as well as the patient's clinical status at the time of relapse and the interval between relapse and transplantation. With the help of three illustrative cases, we discuss our approach to early, late, and incipient relapse. Current therapeutic strategies incorporate immunosuppression taper when feasible, a variety of targeted and non-targeted chemotherapeutic agents and consolidative cellular therapies including donor lymphocyte infusions or a second allogeneic transplant. We then summarize evolving frontiers in the treatment and prognostication of relapse including the critical role of measurable residual disease. Finally, we emphasize enrollment on clinical trials and thoughtful discussions regarding goals of care and supporting frail patients as universal principles that should be incorporated in approaches to treatment of AML relapse post-transplantation.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Blood",
+    "journalInfo": "Blood. 2024. Dec. 24. doi: 10.1182/blood.2024025705. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1182/blood.2024025705",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Mahasweta Gooptu",
+        "affiliation": [
+          "Dana- Farber Cancer Institute, Boston, Massachusetts, United States."
+        ]
+      },
+      {
+        "name": "H Moses Murdock",
+        "affiliation": [
+          "Dana-Farber Cancer Institute, BOSTON, Massachusetts, United States."
+        ]
+      },
+      {
+        "name": "Robert J Soiffer",
+        "affiliation": [
+          "Dana-Farber Cancer Institute, BOSTON, Massachusetts, United States."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719041",
+    "title": "Menin inhibitors in the treatment of acute myeloid leukemia.",
+    "abstract": [
+      {
+        "text": "Acute myeloid leukemia (AML) is a heterogeneous hematologic malignancy characterized by the (oligo)clonal expansion of myeloid progenitor cells. Despite advances in treatment, AML remains challenging to cure, particularly in patients with specific genetic abnormalities. Menin inhibitors have emerged as a promising therapeutic approach, targeting key genetic drivers of AML such as KMT2A rearrangements and NPM1 mutations. Here, we review the clinical value of menin inhibitors, highlighting their mechanism of action, efficacy, safety, and potential to transform AML treatment.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Blood",
+    "journalInfo": "Blood. 2024. Dec. 24. doi: 10.1182/blood.2024026232. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1182/blood.2024026232",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Gerwin A Huls",
+        "affiliation": [
+          "University Medical Center Groningen, Groningen, Netherlands."
+        ]
+      },
+      {
+        "name": "Carolien M Woolthuis",
+        "affiliation": [
+          "University Medical Center Groningen, Groningen, Netherlands."
+        ]
+      },
+      {
+        "name": "Jan Jacob Schuringa",
+        "affiliation": [
+          "University Medical Center Groningen, Groningen, Netherlands."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719040",
+    "title": "Non-V600E BRAF mutations and treatment for Hairy Cell Leukemia.",
+    "abstract": [
+      {
+        "text": "We found 18 patients with immunophenotype consistent with classic hairy cell leukemia (HCL) and BRAF mutations other than just V600E. Twelve had 1 non-V600E BRAF mutation and 6 had V600E with 1 (n=5) or 2 (n=1) non-V600E BRAF co-mutations.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Blood",
+    "journalInfo": "Blood. 2024. Dec. 24. doi: 10.1182/blood.2024026894. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1182/blood.2024026894",
+    "KeywordList": [],
+    "authors": [
+      {
+        "name": "Evgeny Arons",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Chin-Hsien Tai",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Joshi Suraj",
+        "affiliation": [
+          "National Cancer Institute, NIH, Somerville, Massachusetts, United States."
+        ]
+      },
+      {
+        "name": "Yuelin Liu",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Chi-Ping Day",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Mark Raffeld",
+        "affiliation": [
+          "National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Liqiang Xi",
+        "affiliation": [
+          "National Institutes of Health, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Mory Gould",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Isaac David Shpilman",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Christopher C Oakes",
+        "affiliation": [
+          "The Ohio State University, Columbus, Ohio, United States."
+        ]
+      },
+      {
+        "name": "Seema Ali Bhat",
+        "affiliation": [
+          "The Ohio State University, Columbus, Ohio, United States."
+        ]
+      },
+      {
+        "name": "Michael Rhodes Grever",
+        "affiliation": ["Ohio State University, Colmubus, Ohio, United States."]
+      },
+      {
+        "name": "Daniel Jones",
+        "affiliation": [
+          "The Ohio State University, Columbus, Ohio, United States."
+        ]
+      },
+      {
+        "name": "Kerry A Rogers",
+        "affiliation": ["Ohio State University, Columbus, Ohio, United States."]
+      },
+      {
+        "name": "Hao-Wei Wang",
+        "affiliation": [
+          "National Institutes of Health, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Constance M Yuan",
+        "affiliation": ["NCI/NIH, Bethesda, Maryland, United States."]
+      },
+      {
+        "name": "S Cenk Sahinalp",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      },
+      {
+        "name": "Robert J Kreitman",
+        "affiliation": [
+          "National Cancer Institute, NIH, Bethesda, Maryland, United States."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719038",
+    "title": "Using a Social Network Approach to Characterize Oral Health Behavior Social Support Among Mexican-Origin Young Adults.",
+    "abstract": [
+      {
+        "text": "Using a social network approach, we characterize who Mexican-origin young adults perceive as social support sources for oral health behaviors and provide additional validity evidence for Oral Health Behavior Social Support Scales (OHBSS). From April to September 2022, we gathered social network data from 62 Mexican-origin adults (21-40 years old) through Zoom interviews about their perceived received social support for three oral health behaviors (toothbrushing, flossing, and obtaining dental care) from three potential sources of support (family, health providers, and others/friends). Overall, we found similar results across all three oral health behaviors. We also found evidence for convergent and discriminant validity of OHBSS scales using social network measures. Implications of findings are discussed.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Journal of health communication",
+    "journalInfo": "J Health Commun. 2024. Dec. 24. :1. doi: 10.1080/10810730.2024.2433528. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1080/10810730.2024.2433528",
+    "KeywordList": [
+      "Social support",
+      "health disparities",
+      "oral health",
+      "social networks"
+    ],
+    "authors": [
+      {
+        "name": "Lourdes S Martinez",
+        "affiliation": [
+          "School of Communication, San Diego State University, San Diego, California, USA."
+        ]
+      },
+      {
+        "name": "Aachal Devi",
+        "affiliation": [
+          "San Diego, Joint Doctoral Program in Public Health, The San Diego State University/University of California, San Diego, California, USA."
+        ]
+      },
+      {
+        "name": "Gerardo Maupomé",
+        "affiliation": [
+          "Richard M. Fairbanks School of Public Health, Indiana University-Purdue University Indianapolis, Indianapolis, Indiana, USA."
+        ]
+      },
+      {
+        "name": "Melody K Schiaffino",
+        "affiliation": [
+          "School of Public Health, San Diego State University and the Institute for Behavioral and Community Health, San Diego, California, USA."
+        ]
+      },
+      {
+        "name": "Guadalupe X Ayala",
+        "affiliation": [
+          "School of Public Health, San Diego State University and the Institute for Behavioral and Community Health, San Diego, California, USA."
+        ]
+      },
+      {
+        "name": "Vanessa L Malcarne",
+        "affiliation": [
+          "Psychology Department, San Diego State University, San Diego, California, USA."
+        ]
+      },
+      {
+        "name": "Kristin S Hoeft",
+        "affiliation": [
+          "School of Dentistry, University of California - San Francisco, San Francisco, California, USA."
+        ]
+      },
+      {
+        "name": "Tracy L Finlayson",
+        "affiliation": [
+          "School of Public Health, San Diego State University and the Institute for Behavioral and Community Health, San Diego, California, USA."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719037",
+    "title": "Solvent-Free Chemical Recycling of Polyesters and Polycarbonates by Magnesium-Based Lewis Acid Catalyst.",
+    "abstract": [
+      {
+        "text": "Developing a simple and efficient catalyst system for closed-loop recycling of polymers to monomers is an essentially important but challenging task for the recycle of polymer wastes and preventing the downcycle of plastic products. Herein, we employ inexpensive, commercially available Lewis acids (LAs) to achieve closed-loop recycling in bulk through the catalytic depolymerization of aliphatic polyesters and polycarbonates. The scope of LAs is screened by thermogravimetric analysis experiments and distillation experiments. MgCl shows the best catalytic performance that can efficiently depolymerize eleven aliphatic polyesters and polycarbonates (i.e. poly(ϵ-caprolactone) and poly(trimethylene carbonate)), into monomers (up to 98 % yield) at temperatures significantly lower than the ceiling temperature. Moreover, this catalyst system exhibits high selectivity and compatibility towards the depolymerization of (co)polyesters as well as the blends of polyesters and polycarbonates in the presence of other commodity plastics, as well as excellent recycle and reuse catalyst performance. Mechanistic studies indicate that the closed-loop recycling of monomers is achieved through the random chain scission and terminal group cyclization.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Angewandte Chemie (International ed. in English)",
+    "journalInfo": "Angew Chem Int Ed Engl. 2024. Dec. 24. :e202420688. doi: 10.1002/anie.202420688. Epub 2024 12 24",
+    "publicationDate": "2024-Dec-24",
+    "doi": "10.1002/anie.202420688",
+    "KeywordList": [
+      "Chemical Recycling",
+      "Closed-Loop",
+      "Depolymerization",
+      "Polycarbonates",
+      "Polyesters"
+    ],
+    "authors": [
+      {
+        "name": "Wuchao Zhao",
+        "affiliation": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, Jilin, China, 130012."
+        ]
+      },
+      {
+        "name": "Zongpeng Guo",
+        "affiliation": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, Jilin, China, 130012."
+        ]
+      },
+      {
+        "name": "Jianghua He",
+        "affiliation": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, Jilin, China, 130012."
+        ]
+      },
+      {
+        "name": "Yuetao Zhang",
+        "affiliation": [
+          "State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, Jilin, China, 130012."
+        ]
+      }
+    ],
+    "ReferenceList": [
+      {
+        "Reference": [
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "J. M. Garcia, M. L. Robertson, Science 2017, 358, 870–872;"
+            ]
+          },
+          {
+            "Citation": [
+              "J. R. Jambeck, R. Geyer, C. Wilcox, T. R. Siegler, M. Perryman, A. Andrady, R. Narayan, K. L. Law, Science 2015, 347, 768–771;"
+            ]
+          },
+          {
+            "Citation": [
+              "M. MacLeod, H. P. H. Arp, M. B. Tekman, A. Jahnke, Science 2021, 373, 61–65;"
+            ]
+          },
+          {
+            "Citation": [
+              "Plastics Europe, Plastics—the Facts 2019: An Analysis of European Plastics Production, Demand and Waste Data, PlasticsEurope, 2019."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "G. X. De Hoe, T. Sucu, M. P. Shaver, Acc. Chem. Res. 2022, 55, 1514–1523;"
+            ]
+          },
+          {
+            "Citation": [
+              "G. W. Coates, Y. D. Y. L. Getzler, Nat. Rev. Mater. 2020, 5, 501–516;"
+            ]
+          },
+          {
+            "Citation": [
+              "C. Jehanno, J. W. Alty, M. Roosen, S. De Meester, A. P. Dove, E. Y. Chen, F. A. Leibfarth, H. Sardon, Nature 2022, 603, 803–814;"
+            ]
+          },
+          {
+            "Citation": [
+              "R. G. Santos, G. E. Machovsky-Capuska, R. Andrades, Science 2021, 373, 56–60;"
+            ]
+          },
+          {
+            "Citation": [
+              "A. Stubbins, K. L. Law, S. E. Muñoz, T. S. Bianchi, L. Zhu, Science 2021, 373, 51–55."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "F. Zhang, F. Wang, X. Wei, Y. Yang, S. Xu, D. Deng, Y.-Z. Wang, J. Energy Chem. 2022, 69, 369–388;"
+            ]
+          },
+          {
+            "Citation": [
+              "M. Hong, E. Y.-X. Chen, Trends Chem. 2019, 1, 148–151."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "H. Z. Fan, X. Yang, J. H. Chen, Y. M. Tu, Z. Cai, J. B. Zhu, Angew. Chem. Int. Ed. 2022, 61, e202117639;"
+            ]
+          },
+          {
+            "Citation": [
+              "J. B. Zhu, E. Y. Chen, Angew. Chem. Int. Ed. 2019, 58, 1178–1182;"
+            ]
+          },
+          {
+            "Citation": [
+              "Y. M. Tu, X. M. Wang, X. Yang, H. Z. Fan, F. L. Gong, Z. Cai, J. B. Zhu, J. Am. Chem. Soc. 2021, 143, 20591–20597;"
+            ]
+          },
+          {
+            "Citation": [
+              "Y.-M. Tu, F.-L. Gong, Y.-C. Wu, Z. Cai, J.-B. Zhu, Nat. Commun. 2023, 14, 3198;"
+            ]
+          },
+          {
+            "Citation": [
+              "R. M. Cywar, J.-B. Zhu, E. Y.-X. Chen, Polym. Chem. 2019, 10, 3097–3106;"
+            ]
+          },
+          {
+            "Citation": [
+              "L. Ye, X. Liu, K. B. Beckett, J. O. Rothbaum, C. Lincoln, L. J. Broadbelt, Y. Kratish, T. J. Marks, Chem 2024, 10, 172–189."
+            ]
+          },
+          {
+            "Citation": [
+              "C. Shi, E. C. Quinn, W. T. Diment, E. Y.-X. Chen, Chem. Rev. 2024, 124, 4393–4478."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "E. Feghali, L. Tauk, P. Ortiz, K. Vanbroekhoven, W. Eevers, Polym. Degrad. Stab. 2020, 179, 109241;"
+            ]
+          },
+          {
+            "Citation": ["M. Hong, E. Y.-X. Chen, Nat. Chem. 2016, 6, 42–49;"]
+          },
+          {
+            "Citation": [
+              "Z. Li, Y. Shen, Z. Li, Macromolecules 2024, 57, 1919–1940."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "J.-B. Zhu, Y. Tao, Y. Liu, Z. Cai, Acta Chim. Sin. 2022, 80, 1165–1182;"
+            ]
+          },
+          {
+            "Citation": [
+              "Y. Liu, X. B. Lu, J. Polym. Sci. 2022, 60, 3256–3268."
+            ]
+          },
+          {
+            "Citation": [
+              "C. Shi, L. T. Reilly, V. S. Phani Kumar, M. W. Coile, S. R. Nicholson, L. J. Broadbelt, G. T. Beckham, E. Y.-X. Chen, Chem 2021, 7, 2896–2912."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "G. Sivalingam, G. Madras, Polym. Degrad. Stab. 2003, 80, 11–16;"
+            ]
+          },
+          {
+            "Citation": [
+              "W. Xie, Z. Gan, Polym. Degrad. Stab. 2009, 94, 1040–1046."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "C. F. Gallin, W. W. Lee, J. A. Byers, Angew. Chem. Int. Ed. 2023, 62, e202303762;"
+            ]
+          },
+          {
+            "Citation": [
+              "J. B. Zhu, E. Y. Chen, Angew. Chem. Int. Ed. 2018, 57, 12558–12562;"
+            ]
+          },
+          {
+            "Citation": [
+              "J.-B. Zhu, E. M. Watson, J. Tang, E. Y.-X. Chen, Science 2018, 360, 398–403;"
+            ]
+          },
+          {
+            "Citation": [
+              "L. Cederholm, P. Olsén, M. Hakkarainen, K. Odelius, Polym. Chem. 2023, 14, 3270–3276;"
+            ]
+          },
+          {
+            "Citation": [
+              "K. D. Knight, M. E. Fieser, Inorg. Chem. Front. 2024, 11, 298–309;"
+            ]
+          },
+          {
+            "Citation": [
+              "W. T. Diment, R. R. Gowda, E. Y.-X. Chen, J. Am. Chem. Soc. 2024, 146, 25745–25754."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "H. Ebata, K. Toshima, S. Matsumura, Biomacromolecules 2000, 1, 511–514;"
+            ]
+          },
+          {
+            "Citation": [
+              "J. Su, G. Xu, B. Dong, R. Yang, H. Sun, Q. Wang, Polym. Chem. 2022, 13, 5897–5904."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "A. J. Spicer, A. Brandolese, A. P. Dove, ACS Macro Lett. 2024, 13, 189–194;"
+            ]
+          },
+          {
+            "Citation": [
+              "Q. Zhang, C. Hu, P.-Y. Li, F.-Q. Bai, X. Pang, X. Chen, ACS Macro Lett. 2024, 13, 151–157."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "C. Shi, M. L. McGraw, Z.-C. Li, L. Cavallo, L. Falivene, E. Y.-X. Chen, Sci. Adv. 2020, 6, eabc0495;"
+            ]
+          },
+          {
+            "Citation": [
+              "L. Zhou, Z. Zhang, C. Shi, M. Scoti, D. K. Barange, R. R. Gowda, E. Y.-X. Chen, Science 2023, 380, 64–69."
+            ]
+          },
+          {
+            "Citation": [" "]
+          },
+          {
+            "Citation": [
+              "X. Liao, F. C. Cui, J. H. He, W. M. Ren, X. B. Lu, Y. T. Zhang, Chem. Sci. 2022, 13, 6283–6290;"
+            ]
+          },
+          {
+            "Citation": [
+              "W. Zhao, C. Li, X. Yang, J. He, X. Pang, Y. Zhang, Y. Men, X. Chen, CCS Chem. 2022, 4, 1263–1272."
+            ]
+          }
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719034",
+    "title": "Speciation and Aqueous Dissolution of Macronutrients in Fire Ash: Variation across Ecosystems and the Effects on Nutrient Cycling.",
+    "abstract": [
+      {
+        "text": "This study investigated the speciation and aqueous dissolution of macronutrients in fire ash from diverse ecosystems and speciation of ash and smoke from laboratory burning, exploring the variations and their causes. The speciation of phosphorus (P), calcium (Ca), and potassium (K) in fire ash from five globally distributed ecosystems was characterized by using X-ray absorption spectroscopy and sequential fractionation. Aqueous dissolution of the macronutrients was measured by batch experiments at acidic and alkaline pHs. The results showed that P existed mainly as Ca phosphates, Ca as double carbonates, calcite, and sulfates, and most K was associated with Ca carbonates. Mineralogy and the relative abundance of the species were primarily controlled by elemental stoichiometry and fire temperature. Differences in Ca and P speciation existed between ash and smoke from laboratory burning, possibly caused by the temperature difference and/or mass fractionation during burning. The rates, extents, and pH dependencies of macronutrient dissolution differed among macronutrients and depended on their speciation, with K being highly soluble and the P and Ca regulated by solution pH. The variability in ash macronutrient chemistry and ecosystem-specific fire ash loads resulted in varying loads and availability of individual macronutrient from fire among ecosystems. This study provides a mechanistic understanding of how fires transform the chemistry of macronutrients and affect macronutrient returns to soils across different ecosystems, which is essential for evaluating the disturbance to ecosystem nutrient cycling by fires.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Environmental science & technology",
+    "journalInfo": "Environ Sci Technol. 2025. Jan. 14. 59. (1). :454. doi: 10.1021/acs.est.4c07101. Epub 2024 12 24",
+    "publicationDate": "2025-Jan-14",
+    "doi": "10.1021/acs.est.4c07101",
+    "KeywordList": [
+      "X-ray absorption spectroscopy (XAS)",
+      "fire ash",
+      "macronutrients",
+      "smoke",
+      "speciation",
+      "terrestrial ecosystems",
+      "wildland fires"
+    ],
+    "authors": [
+      {
+        "name": "Lingqun Zeng",
+        "affiliation": [
+          "Department of Environmental and Sustainable Engineering, University at Albany, 1400 Washington Avenue, Albany 12222, New York, United States."
+        ]
+      },
+      {
+        "name": "Shyrill F Mariano",
+        "affiliation": [
+          "Department of Environmental and Sustainable Engineering, University at Albany, 1400 Washington Avenue, Albany 12222, New York, United States."
+        ]
+      },
+      {
+        "name": "Rixiang Huang",
+        "affiliation": [
+          "Department of Environmental and Sustainable Engineering, University at Albany, 1400 Washington Avenue, Albany 12222, New York, United States."
+        ]
+      },
+      {
+        "name": "Carmen Sánchez-García",
+        "affiliation": [
+          "Centre for Wildfire Research, Department of Geography, Swansea University, Singleton Campus, Swansea SA2 8PP, U.K."
+        ]
+      },
+      {
+        "name": "Cristina Santin",
+        "affiliation": [
+          "Centre for Wildfire Research, Department of Geography, Swansea University, Singleton Campus, Swansea SA2 8PP, U.K.",
+          "Biodiversity Research Institute (IMIB; CSIC─Universidad de Oviedo─Principality of Asturias), Mieres 33600, Spain."
+        ]
+      },
+      {
+        "name": "Jonay Neris",
+        "affiliation": [
+          "Centre for Wildfire Research, Department of Geography, Swansea University, Singleton Campus, Swansea SA2 8PP, U.K.",
+          "Departamento de Biología Animal, Edafología y Geología, Universidad de La Laguna, La Laguna 38200, Spain."
+        ]
+      },
+      {
+        "name": "Kruthika Kumar",
+        "affiliation": [
+          "School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia, Athens 30602, Georgia, United States."
+        ]
+      },
+      {
+        "name": "Chase K Glenn",
+        "affiliation": [
+          "School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia, Athens 30602, Georgia, United States."
+        ]
+      },
+      {
+        "name": "Omar El Hajj",
+        "affiliation": [
+          "School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia, Athens 30602, Georgia, United States."
+        ]
+      },
+      {
+        "name": "Anita Anosike",
+        "affiliation": [
+          "School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia, Athens 30602, Georgia, United States."
+        ]
+      },
+      {
+        "name": "Joseph O'Brien",
+        "affiliation": [
+          "USDA Forest Service Southern Research Station, Athens 30602, Georgia, United States."
+        ]
+      },
+      {
+        "name": "Rawad A Saleh",
+        "affiliation": [
+          "School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia, Athens 30602, Georgia, United States."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719033",
+    "title": "In Vitro and In-Silico Assessment of Gaussian Curvature-driven Internalization Kinetics of Nanoparticles.",
+    "abstract": [
+      {
+        "text": "Nanoparticles have been of significant interest in various biomedical domains such as drug delivery, gene delivery, cytotoxicity analysis, and imaging. Despite the synthesis of a variety of nanoparticles, their cellular uptake efficiency remains a substantial obstacle, with only a small fraction of delivered nanoparticles (NPs) have been reported to traverse the cell membrane within 24 h. Consequently, higher doses are often necessitated, leading to increased toxicity concerns. In this investigation, we illustrate that nanoparticles having negative Gaussian curvature demonstrate rapid and efficient internalization into cells by lowering the energy barrier for membrane bending. Specifically, three types of gold nanoparticles; gold nanorods (GNR), gold nanodogbones at pH 4 (GDB4), and gold nanodogbones at pH 6 (GDB6) were synthesized, with Gaussian curvatures of 0, -166.91, and -376.62, respectively. Cellular uptake studies conducted via ICP-OES analysis reveal that GDB6 is taken up 140% more in A549 cells and 77% more in NIH3T3 cells compared to GNR. Confocal microscopy-based uptake studies further confirm the higher uptake of GDB6 compared to GNR. Additionally, molecular simulations indicate that GDB nanoparticles exhibit a significantly larger free energy change during translocation compared to GNR, emphasizing the impact of nanoparticle shape on uptake and translocation through the membrane and validating the efficacy of negative Gaussian curvature in enhancing cellular uptake, consistent with experimental observations. Overall, our findings emphasize the importance of nanoparticle curvature modulation in maximizing cellular uptake efficiency for improved biomedical applications, providing valuable insights into the design of nanomaterials for drug delivery purposes.",
         "level": null,
         "nlmCategory": null
       }
     ],
     "journalTitle": "ACS applied materials & interfaces",
-    "journalInfo": "ACS Appl Mater Interfaces. 2024. Sep. 18. 16. (37). :48782. doi: 10.1021/acsami.3c13027. Epub 2024 01 02",
-    "publicationDate": "2024-Sep-18",
-    "doi": "10.1021/acsami.3c13027",
+    "journalInfo": "ACS Appl Mater Interfaces. 2025. Jan. 08. 17. (1). :663. doi: 10.1021/acsami.4c18124. Epub 2024 12 24",
+    "publicationDate": "2025-Jan-08",
+    "doi": "10.1021/acsami.4c18124",
     "KeywordList": [
-      "Aqueous Potassium ion battery",
-      "Aqueous potassium dual ion battery",
-      "Organic electrode",
-      "Polyimide",
-      "WiSE electrolytes"
+      "Gaussian curvature",
+      "cellular uptake",
+      "free energy change",
+      "gold nano dogbone",
+      "internalization kinetics"
     ],
     "authors": [
       {
-        "name": "Gudla Vardhini",
+        "name": "Pramina Kumari Pandey",
         "affiliation": [
-          "School of Physics, Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM), Maruthamala PO, Vithura, Kerala 695551, India."
+          "Materials Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar 382055, India."
         ]
       },
       {
-        "name": "Patoju Sai Dilip",
+        "name": "Param Punj Singh",
         "affiliation": [
-          "School of Chemistry, Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM), Maruthamala PO, Vithura, Kerala 695551, India."
+          "Materials Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar 382055, India."
         ]
       },
       {
-        "name": "Sreelakshmi Anil Kumar",
+        "name": "Saumyakanti Khatua",
         "affiliation": [
-          "School of Physics, Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM), Maruthamala PO, Vithura, Kerala 695551, India."
+          "Chemistry, Indian Institute of Technology Gandhinagar, Gandhinagar 382055, India."
         ]
       },
       {
-        "name": "Shruti Suriyakumar",
+        "name": "Raghavan Ranganathan",
         "affiliation": [
-          "School of Physics, Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM), Maruthamala PO, Vithura, Kerala 695551, India."
+          "Materials Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar 382055, India."
         ]
       },
       {
-        "name": "Mahesh Hariharan",
+        "name": "Abhijit Mishra",
         "affiliation": [
-          "School of Chemistry, Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM), Maruthamala PO, Vithura, Kerala 695551, India."
-        ]
-      },
-      {
-        "name": "Manikoth M Shaijumon",
-        "affiliation": [
-          "School of Physics, Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM), Maruthamala PO, Vithura, Kerala 695551, India."
+          "Materials Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar 382055, India."
         ]
       }
-    ]
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719031",
+    "title": "Mechanistic Insight into the Formation and Deposition of Conductive, Layered Metal-Organic Framework Nanocrystals.",
+    "abstract": [
+      {
+        "text": "This paper describes the use of the layered conductive metal-organic framework (MOF) (nickel)-(hexahydroxytriphenylene) [Ni(HHTP)] as a model system for understanding the process of self-assembly within this class of materials. We confirm and quantify experimentally the role of the oxidant in the synthetic process. Monitoring the deposition of Ni(HHTP) with  infrared spectroscopy revealed that MOF formation is characterized by an initial induction period, followed by linear growth with respect to time. The presence and identity of oxidizing agents is critical for the coordination-driven self-assembly of these materials and impacts both the length of the induction period and the observed rate of MOF growth. A large excess of hydrogen peroxide results in a 2× increase in the observed deposition rate (9.6 ± 6.8 × 10 vs 5.0 ± 2.8 × 10 min) over standard reaction conditions, but leads to the formation of large, irregularly shaped particles. Slower deposition rates in the presence of oxygen favor the formation of uniformly sized nanorods (98 ± 38 × 25 ± 6 nm). These quantitative insights into the mechanism of HHTP-based MOF formation provide valuable information about the fundamental aspects of coordination and polymerization that are critical for nanoscale crystal engineering of structure-property relationships in this class of materials.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "ACS nano",
+    "journalInfo": "ACS Nano. 2025. Jan. 14. 19. (1). :1383. doi: 10.1021/acsnano.4c14018. Epub 2024 12 24",
+    "publicationDate": "2025-Jan-14",
+    "doi": "10.1021/acsnano.4c14018",
+    "KeywordList": [
+      "conductive 2D materials",
+      "formation rate",
+      "in situ ATR-FTIR spectroscopy",
+      "metal−organic frameworks",
+      "nanoscale morphology",
+      "oxidants",
+      "self-assembly"
+    ],
+    "authors": [
+      {
+        "name": "Emma K Ambrogi",
+        "affiliation": [
+          "Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States."
+        ]
+      },
+      {
+        "name": "Patrick Damacet",
+        "affiliation": [
+          "Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States."
+        ]
+      },
+      {
+        "name": "Robert M Stolz",
+        "affiliation": [
+          "Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States."
+        ]
+      },
+      {
+        "name": "Katherine A Mirica",
+        "affiliation": [
+          "Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "articleId": "39719030",
+    "title": "Optimization of adsorption performance by mesoporous materials developed from local clays and zeolite. Application in the treatment of real pharmaceutical effluents.",
+    "abstract": [
+      {
+        "text": "The treatment of effluents from the pharmaceutical industry currently remains a major challenge due to their impact on the environment and public health along with the cost of treatments. Considering these issues, our work focused on the development of materials with effective adsorption properties to treat industrial effluents based on locally available and inexpensive clays and zeolite. Local Algerian kaolin (Djebel Debbagh), palygorskite (Ghoufi) and zeolite (Tinbdar) were treated thermally and chemically prior to synthesis into mesoporous materials of hexagonal structure using pluronic P123 as surfactant. The raw and synthesized materials were tested in the adsorption of pharmaceutical effluents from industries producing antihistamine and diuretic-type drugs. Analyses of physicochemical parameters (chemical and biological oxygen demand) as well as measurement of the concentrations of PO³, NO, NH of effluents were done before and after the adsorption process by the raw and mesoporous clays and zeolite. The results showed a reduction of all parameters with greater efficiency of mesoporous DD3 which indicated that it is a promising mesoporous adsorbent for treating pharmaceutical effluents. Reduced rates of these three physical parameters (PO³, NO, NH) in the case of NEUROVIT by mesoporous DD3 are 61%, 98% and 77%. However, PO³, NO elimination percentages DIAPHAG onto DD3 are 79% and 87%, respectively.",
+        "level": null,
+        "nlmCategory": null
+      }
+    ],
+    "journalTitle": "Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+    "journalInfo": "J Environ Sci Health B. 2025. 60. (1). :28. doi: 10.1080/03601234.2024.2444123. Epub 2024 12 24",
+    "publicationDate": "2025--",
+    "doi": "10.1080/03601234.2024.2444123",
+    "KeywordList": [
+      "DD3 kaolin",
+      "mesoporous materials",
+      "natural zeolite",
+      "palygorskite",
+      "pharmaceutical effluent"
+    ],
+    "authors": [
+      {
+        "name": "Nor El Houda Fardjaoui",
+        "affiliation": [
+          "Laboratoire Génie Civil et d'Hydraulique, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      },
+      {
+        "name": "Fatima Zohra El Berrichi",
+        "affiliation": [
+          "Laboratoire Génie Civil et d'Hydraulique, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      },
+      {
+        "name": "Joelle Duplay",
+        "affiliation": [
+          "ITES-Institut Terre et Environnement de Strasbourg, UMR 7063 CNRS, Strasbourg Cedex, France."
+        ]
+      },
+      {
+        "name": "Ibtissem Slatni",
+        "affiliation": [
+          "Laboratoire Génie Civil et d'Hydraulique, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      },
+      {
+        "name": "Hamdi Mekhlouf",
+        "affiliation": [
+          "Laboratoire Génie Civil et d'Hydraulique, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      },
+      {
+        "name": "Sara Djebiha",
+        "affiliation": [
+          "Département des sciences de la matière, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      },
+      {
+        "name": "Dhikra Mahieddine",
+        "affiliation": [
+          "Département des sciences de la matière, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      },
+      {
+        "name": "Raja Benamar",
+        "affiliation": [
+          "Research Unit 'Advanced Technologies for Environment and Smart Cities', Faculty of Sciences of Sfax, University of Sfax, Sfax, Tunisia."
+        ]
+      },
+      {
+        "name": "Noureddine Bouchemal",
+        "affiliation": [
+          "Laboratory of Process Engineering, Amar TELIDJI University, Laghouat, Algeria.",
+          "Technical Platform of Physico-Chemical Analysis (PTAPC-Laghouat-CRAPC), University of Amar TELIDJI, Laghouat, Algeria."
+        ]
+      },
+      {
+        "name": "Brahim Gasmi",
+        "affiliation": [
+          "Laboratoire de Physique des Couches Minces et Application, Université Mohamed Khider Biskra, Biskra, Algeria."
+        ]
+      },
+      {
+        "name": "Ilhem Rekkab",
+        "affiliation": [
+          "Laboratoire de Catalyse et Synthèse en Chimie Organique, Faculté des Sciences, Université de Tlemcen, Tlemcen, Algeria."
+        ]
+      },
+      {
+        "name": "Ammar Maoui",
+        "affiliation": [
+          "Laboratoire Génie Civil et d'Hydraulique, Université 8 Mai 1945, Guelma, Algeria."
+        ]
+      }
+    ],
+    "date": "2024-12-23"
   }
 ]
